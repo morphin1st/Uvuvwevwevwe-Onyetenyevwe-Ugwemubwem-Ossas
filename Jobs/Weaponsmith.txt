@@ -1,0 +1,155 @@
+Weaponsmith: 
+	- Craft:
+>Wooden Sword: 4.19$ 4.19pts 6.29xp (+0.4 mỗi level)
+>Stone Sword: 6.07$ 6.07pts 8.11xp (+0.45 mỗi level)
+>Copper Sword: 8.16$ 8.16pts 10.07xp (+0.5 mỗi level)
+>Golden Sword: 9.04$ 9.04pts 10.82xp (+0.55 mỗi level)
+>Iron Sword: 10.19$ 10.19pts 11.23xp (+0.6 mỗi level)
+>Diamond Sword: 19.27$ 19.27pts 20.57xp (+0.8 mỗi level)
+
+>Wooden Axe: 4.19$ 4.19pts 6.29xp (+0.4 mỗi level)
+>Stone Axe: 6.07$ 6.07pts 8.11xp (+0.45 mỗi level)
+>Copper Axe: 8.16$ 8.16pts 10.07xp (+0.5 mỗi level)
+>Golden Axe: 9.04$ 9.04pts 10.82xp (+0.55 mỗi level)
+>Iron Axe: 10.19$ 10.19pts 11.23xp (+0.6 mỗi level)
+>Diamond Axe: 19.27$ 19.27pts 20.57xp (+0.8 mỗi level)
+
+>Wooden Spear: 4.19$ 4.19pts 6.29xp (+0.4 mỗi level)
+>Stone Spear: 6.07$ 6.07pts 8.11xp (+0.45 mỗi level)
+>Copper Spear: 8.16$ 8.16pts 10.07xp (+0.5 mỗi level)
+>Golden Spear: 9.04$ 9.04pts 10.82xp (+0.55 mỗi level)
+>Iron Spear: 10.19$ 10.19pts 11.23xp (+0.6 mỗi level)
+>Diamond Spear: 19.27$ 19.27pts 20.57xp (+0.8 mỗi level)
+
+>Wooden Pickaxe: 4.19$ 4.19pts 6.29xp (+0.4 mỗi level)
+>Stone Pickaxe: 6.07$ 6.07pts 8.11xp (+0.45 mỗi level)
+>Copper Pickaxe: 8.16$ 8.16pts 10.07xp (+0.5 mỗi level)
+>Golden Pickaxe: 9.04$ 9.04pts 10.82xp (+0.55 mỗi level)
+>Iron Pickaxe: 10.19$ 10.19pts 11.23xp (+0.6 mỗi level)
+>Diamond Pickaxe: 19.27$ 19.27pts 20.57xp (+0.8 mỗi level)
+
+>Mace: 24.08$ 24.08pts 25.97xp (+1.0 mỗi level)
+
+>Bow: 14.26$ 14.26pts 16.07xp (+0.6 mỗi level)
+
+>Crossbow: 21.08$ 21.08pts 17.22xp (+0.65 mỗi level)
+
+>Leather Boots: 5.94$ 5.94pts 6.03xp (+0.4 mỗi level)
+>Leather Cap: 5.94$ 5.94pts 6.03xp (+0.4 mỗi level)
+>Leather Tunic: 5.94$ 5.94pts 6.03xp (+0.4 mỗi level)
+>Leather Pants: 5.94$ 5.94pts 6.03xp (+0.4 mỗi level)
+
+>Copper Boots: 7.22$ 7.22pts 8.39xp (+0.5 mỗi level)
+>Copper Helmet: 7.22$ 7.22pts 8.39xp (+0.5 mỗi level)
+>Copper Chestplate: 7.22$ 7.22pts 8.39xp (+0.5 mỗi level)
+>Copper Leggings: 7.22$ 7.22pts 8.39xp (+0.5 mỗi level)
+
+>Golden Boots: 8.16$ 8.16pts 9.20xp (+0.6 mỗi level)
+>Golden Helmet: 8.16$ 8.16pts 9.20xp (+0.6 mỗi level)
+>Golden Chestplate: 8.16$ 8.16pts 9.20xp (+0.6 mỗi level)
+>Golden Leggings: 8.16$ 8.16pts 9.20xp (+0.6 mỗi level)
+
+>Iron Boots: 11.57$ 11.57pts 14.02xp (+0.7 mỗi level)
+>Iron Helmet: 11.57$ 11.57pts 14.02xp (+0.7 mỗi level)
+>Iron Chestplate: 11.57$ 11.57pts 14.02xp (+0.7 mỗi level)
+>Iron Leggings: 11.57$ 11.57pts 14.02xp (+0.7 mỗi level)
+
+>Diamond Boots: 18.34$ 18.34pts 20.16xp (+0.8 mỗi level)
+>Diamond Helmet: 18.34$ 18.34pts 20.16xp (+0.8 mỗi level)
+>Diamond Chestplate: 18.34$ 18.34pts 20.16xp (+0.8 mỗi level)
+>Diamond Leggings: 18.34$ 18.34pts 20.16xp (+0.8 mỗi level)
+
+>Turtle Shell: 26.18$ 26.18pts 31.09xp (+1.0 mỗi level)
+
+	- Smelt: 
+>Iron Ingot: 7.06$ 7.06pts 6.20xp (+0.3 mỗi level)
+>Gold Ingot: 8.31$ 8.31pts 7.25xp (+0.4 mỗi level)
+>Iron Nugget: 4.72$ 4.72pts 3.04xp (+0.3 mỗi level)
+>Gold Nugget: 5.16$ 5.16pts 4.29xp (+0.4 mỗi level)
+
+	- Repair: 
+>Wooden Sword: 4.19$ 4.19pts 6.29xp (+0.4 mỗi level)
+>Stone Sword: 6.07$ 6.07pts 8.11xp (+0.45 mỗi level)
+>Copper Sword: 8.16$ 8.16pts 10.07xp (+0.5 mỗi level)
+>Golden Sword: 9.04$ 9.04pts 10.82xp (+0.55 mỗi level)
+>Iron Sword: 10.19$ 10.19pts 11.23xp (+0.6 mỗi level)
+>Diamond Sword: 19.27$ 19.27pts 20.57xp (+0.8 mỗi level)
+>Netherite Sword: 25.34$ 25.34pts 27.09xp (+1.0 mỗi level)
+
+>Wooden Axe: 4.19$ 4.19pts 6.29xp (+0.4 mỗi level)
+>Stone Axe: 6.07$ 6.07pts 8.11xp (+0.45 mỗi level)
+>Copper Axe: 8.16$ 8.16pts 10.07xp (+0.5 mỗi level)
+>Golden Axe: 9.04$ 9.04pts 10.82xp (+0.55 mỗi level)
+>Iron Axe: 10.19$ 10.19pts 11.23xp (+0.6 mỗi level)
+>Diamond Axe: 19.27$ 19.27pts 20.57xp (+0.8 mỗi level)
+>Netherite Axe: 25.34$ 25.34pts 27.09xp (+1.0 mỗi level)
+
+>Wooden Spear: 4.19$ 4.19pts 6.29xp (+0.4 mỗi level)
+>Stone Spear: 6.07$ 6.07pts 8.11xp (+0.45 mỗi level)
+>Copper Spear: 8.16$ 8.16pts 10.07xp (+0.5 mỗi level)
+>Golden Spear: 9.04$ 9.04pts 10.82xp (+0.55 mỗi level)
+>Iron Spear: 10.19$ 10.19pts 11.23xp (+0.6 mỗi level)
+>Diamond Spear: 19.27$ 19.27pts 20.57xp (+0.8 mỗi level)
+>Netherite Spear: 25.34$ 25.34pts 27.09xp (+1.0 mỗi level)
+
+>Wooden Pickaxe: 4.19$ 4.19pts 6.29xp (+0.4 mỗi level)
+>Stone Pickaxe: 6.07$ 6.07pts 8.11xp (+0.45 mỗi level)
+>Copper Pickaxe: 8.16$ 8.16pts 10.07xp (+0.5 mỗi level)
+>Golden Pickaxe: 9.04$ 9.04pts 10.82xp (+0.55 mỗi level)
+>Iron Pickaxe: 10.19$ 10.19pts 11.23xp (+0.6 mỗi level)
+>Diamond Pickaxe: 19.27$ 19.27pts 20.57xp (+0.8 mỗi level)
+>Netherite Pickaxe: 25.34$ 25.34pts 27.09xp (+1.0 mỗi level)
+
+>Trident: 17.26$ 17.26pts 14.20xp (+0.4 mỗi level)
+
+>Mace: 24.08$ 24.08pts 25.97xp (+1.0 mỗi level)
+
+>Bow: 14.26$ 14.26pts 16.07xp (+0.6 mỗi level)
+
+>Crossbow: 21.08$ 21.08pts 17.22xp (+0.65 mỗi level)
+
+>Leather Boots: 5.94$ 5.94pts 6.03xp (+0.4 mỗi level)
+>Leather Cap: 5.94$ 5.94pts 6.03xp (+0.4 mỗi level)
+>Leather Tunic: 5.94$ 5.94pts 6.03xp (+0.4 mỗi level)
+>Leather Pants: 5.94$ 5.94pts 6.03xp (+0.4 mỗi level)
+
+>Copper Boots: 7.22$ 7.22pts 8.39xp (+0.5 mỗi level)
+>Copper Helmet: 7.22$ 7.22pts 8.39xp (+0.5 mỗi level)
+>Copper Chestplate: 7.22$ 7.22pts 8.39xp (+0.5 mỗi level)
+>Copper Leggings: 7.22$ 7.22pts 8.39xp (+0.5 mỗi level)
+
+>Golden Boots: 8.16$ 8.16pts 9.20xp (+0.6 mỗi level)
+>Golden Helmet: 8.16$ 8.16pts 9.20xp (+0.6 mỗi level)
+>Golden Chestplate: 8.16$ 8.16pts 9.20xp (+0.6 mỗi level)
+>Golden Leggings: 8.16$ 8.16pts 9.20xp (+0.6 mỗi level)
+
+>Iron Boots: 11.57$ 11.57pts 14.02xp (+0.7 mỗi level)
+>Iron Helmet: 11.57$ 11.57pts 14.02xp (+0.7 mỗi level)
+>Iron Chestplate: 11.57$ 11.57pts 14.02xp (+0.7 mỗi level)
+>Iron Leggings: 11.57$ 11.57pts 14.02xp (+0.7 mỗi level)
+
+>Diamond Boots: 18.34$ 18.34pts 20.16xp (+0.8 mỗi level)
+>Diamond Helmet: 18.34$ 18.34pts 20.16xp (+0.8 mỗi level)
+>Diamond Chestplate: 18.34$ 18.34pts 20.16xp (+0.8 mỗi level)
+>Diamond Leggings: 18.34$ 18.34pts 20.16xp (+0.8 mỗi level)
+
+>Turtle Shell: 26.18$ 26.18pts 31.09xp (+1.0 mỗi level)
+
+>Shield: 7.32$ 7.32pts 6.01xp (+0.3 mỗi level)
+
+	- Smith:
+>Netherite Sword: 69.27$ 69.27pts 57.21xp (+0.6 mỗi level)
+>Netherite Axe: 69.27$ 69.27pts 57.21xp (+0.6 mỗi level)
+>Netherite Pickaxe: 69.27$ 69.27pts 57.21xp (+0.6 mỗi level)
+>Netherite Spear: 69.27$ 69.27pts 57.21xp (+0.6 mỗi level)
+
+>Netherite Boots: 73.20$ 73.20xp (+0.8 mỗi level)
+>Netherite Chestplate: 73.20$ 73.20xp (+0.8 mỗi level)
+>Netherite Helmet: 73.20$ 73.20xp (+0.8 mỗi level)
+>Netherite Leggings: 73.20$ 73.20xp (+0.8 mỗi level)
+
+	- Kill: 
+>Player: 12.00$ 12.00pts 15.00xp (+0.5 mỗi level)
+
+
+

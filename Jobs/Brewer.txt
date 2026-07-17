@@ -1,0 +1,27 @@
+Brewer: 
+	- Brew:
+>Nether Wart: 8.04$ 8.04pts 7.31xp (+0.4 mỗi level)
+>Redstone Dust: 8.04$ 8.04pts 7.31xp (+0.4 mỗi level)
+>Glowstone Dust: 8.04$ 8.04pts 7.31xp (+0.4 mỗi level)
+>Gunpowder: 8.04$ 8.04pts 7.31xp (+0.4 mỗi level)
+>Dragon's Breath: 27.53$ 27.53pts 26.09xp (+0.6 mỗi level)
+
+>Fermented Spider Eye: 14.83$ 14.83pts 13.07xp (+0.5 mỗi level)
+
+>Sugar: 9.13$ 9.13pts 8.11xp (+0.4 mỗi level)
+>Rabbit's Foot: 20.44$ 20.44pts 19.27xp (+0.5 mỗi level)
+>Glistering Melon Slice: 12.57$ 12.57pts 11.09xp (+0.5 mỗi level)
+>Spider Eye: 11.26$ 11.26pts 10.34xp (+0.4 mỗi level)
+>Blaze Powder: 14.09$ 14.09pts 13.71xp (+0.4 mỗi level)
+>Golden Carrot: 16.56$ 16.56pts 15.38xp (+0.3 mỗi level)
+>Ghast Tear: 24.19$ 24.19pts 23.70xp (+0.5 mỗi level)
+>Pufferfish: 16.22$ 16.22pts 15.04xp (+0.4 mỗi level)
+>Magma Cream: 14.80$ 14.80pts 13.13xp (+0.4 mỗi level)
+>Turtle Shell: 62.71$ 62.71pts 53.90xp (+0.9 mỗi level)
+>Phantom Membrane: 14.09$ 14.09pts 13.87xp (+0.4 mỗi level)
+>Breeze Rod: 14.26$ 14.26pts 13.27xp (+0.4 mỗi level)
+>Cobweb: 12.09$ 12.09pts 11.71xp (+0.4 mỗi level)
+>Slime Block: 19.07$ 19.07pts 18.16xp (+0.6 mỗi level)
+
+	- Kill: 
+>Player: 12.00$ 12.00pts 15.00xp (+0.5 mỗi level)

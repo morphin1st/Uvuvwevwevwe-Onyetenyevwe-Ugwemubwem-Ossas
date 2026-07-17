@@ -1,0 +1,46 @@
+Digger: 
+	- Break:
+>Grass Block: 4.28$ 4.28pts 3.09xp (+0.4 mỗi level)
+>Dirt: 1.08$ 1.08pts 0.03xp (+0.3 mỗi level)
+>Coarse Dirt: 6.22$ 6.22pts 4.20xp (+0.4 mỗi level)
+>Rooted Dirt: 5.01$ 5.01pts 3.17xp (+0.4 mỗi level)
+>Farmland: 2.27$ 2.27pts 1.14xp (+0.4 mỗi level)
+>Dirt Path/Grass Path: 7.29$ 7.29pts 5.89xp (+0.4 mỗi level)
+>Mycelium: 12.07$ 12.07pts 10.35xp (+0.6 mỗi level)
+>Podzol: 8.11$ 8.11pts 6.09xp (+0.5 mỗi level)
+>Mud: 8.67$ 8.67pts 6.31xp (+0.5 mỗi level)
+>Muddy Mangrove Roots: 10.28$ 10.28pts 9.31xp (+0.5 mỗi level)
+
+>Sand: 0.90$ 0.90pts 1.26xp (+0.4 mỗi level)
+>Red Sand: 1.28$ 1.28pts 2.06xp (+0.4 mỗi level)
+>Gravel: 0.81$ 0.81pts 1.02xp (+0.4 mỗi level)
+
+>Clay: 6.27$ 6.27pts 4.09xp (+0.5 mỗi level)
+>Snow Block: 4.10$ 4.10pts 3.25xp (+0.4 mỗi level)
+>Snow: 1.06$ 1.06pts 0.53xp (+0.4 mỗi level)
+
+>Soul Sand: 8.20$ 8.20pts 11.02xp (+0.3 mỗi level) 
+>Soul Soil: 8.20$ 8.20pts 11.02xp (+0.3 mỗi level) 
+
+>White Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Light Gray Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Gray Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Black Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Brown Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Red Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Orange Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Yellow Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Lime Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Green Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Cyan Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Light Blue Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Blue Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Purple Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Magenta Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+>Pink Concrete Powder: 6.37$ 6.37pts 8.03xp (+0.7 mỗi level)
+
+	- Kill: 
+>Player: 12.00$ 12.00pts 15.00xp (+0.5 mỗi level)
+
+
+

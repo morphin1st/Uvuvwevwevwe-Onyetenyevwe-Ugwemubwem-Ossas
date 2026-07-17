@@ -1,0 +1,15 @@
+Explorer: 
+	- Explore: 
+>1: 5.00$ 5.00pts 5.00xp (+0.4 mỗi level)
+>2: 2.50$ 2.50pts 2.50xp (+0.4 mỗi level)
+>3: 1.00$ 1.00pts 1.00xp (+0.4 mỗi level)
+>4: 0.50$ 0.50pts 0.50xp (+0.4 mỗi level)
+>5: 0.20$ 0.20pts 0.20xp (+0.4 mỗi level)
+
+	- Brush: 
+>Suspicious Sand: 16.29$ 16.29pts 21.08xp (+0.7 mỗi level)
+>Suspicious Gravel: 16.29$ 16.29pts 21.08xp (+0.7 mỗi level)
+
+	- Kill:
+>Player: 12.00$ 12.00xp (+0.6 mỗi level)
+

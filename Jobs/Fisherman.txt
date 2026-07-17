@@ -1,0 +1,34 @@
+Fisherman: 
+	- Fish: 
+>Cod: 18.24$ 18.24pts 23.08xp (+0.4 mỗi level)
+>Salmon: 24.32$ 24.32pts 28.14xp (+0.4 mỗi level)
+>Tropical Fish: 28.49$ 28.49pts 31.08xp (+0.5 mỗi level)
+>Pufferfish: 29.10$ 29.10pts 32.69xp (+0.5 mỗi level)
+
+>Lily Pad: 4.26$ 4.26pts 3.18xp (+0.4 mỗi level)
+>Bowl: 1.26$ 1.26pts 0.84xp (+0.4 mỗi level)
+>Leather: 3.73$ 3.73pts 2.09xp (+0.4 mỗi level)
+>Leather Boots: 6.81$ 6.81pts 5.19xp 
+>Rotten Flesh: 1.28$ 1.28pts 0.73xp 
+>Stick: 0.28$ 0.28pts 1.00xp 
+>String: 2.76$ 2.76pts 1.37xp
+>Glass Bottle: 3.97$ 3.97pts 2.04xp 
+>Bone: 0.62$ 0.62pts 1.00xp 
+>Ink Sac: 1.25$ 1.25pts 1.06xp
+>Tripwire Hook: 8.24$ 8.24pts 6.87xp 
+>Bamboo: 1.39$ 1.39pts 0.68xp 
+
+>Bow: 14.09$ 14.09pts 12.28xp (+0.6 mỗi level)
+
+>Enchanted Book: 24.39$ 24.39pts 21.08xp (+0.7 mỗi level)
+
+>Fishing Rod: 20.48$ 20.48pts 16.39xp (+0.6 mỗi level)
+
+>Name Tag: 11.08$ 11.08pts 9.16xp (+0.6 mỗi level)
+
+>Nautilus Shell: 9.17$ 9.17pts 6.09xp (+0.6 mỗi level)
+
+>Saddle: 14.29$ 14.29pts 12.94xp (+0.5 mỗi level)
+
+	- Kill:
+>Player: 12.00$ 12.00pts 15.00xp (+0.5 mỗi level)

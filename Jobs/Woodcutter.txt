@@ -1,0 +1,56 @@
+Woodcutter: 
+	- Break:
+>Oak Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Spruce Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Birch Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Jungle Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Acacia Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Dark Oak Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Mangrove Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Cherry Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Pale Oak Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Crimson Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Warped Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+
+>Stripped Oak Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Stripped Spruce Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Stripped Birch Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Stripped Jungle Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Stripped Acacia Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Stripped Dark Oak Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Stripped Mangrove Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Stripped Cherry Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Stripped Pale Oak Log: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Stripped Crimson Stem: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+>Stripped Warped Stem: 2.92$ 2.92pts 1.06xp (+0.3 mỗi level)
+
+>Oak Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Spruce Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Birch Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Jungle Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Acacia Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Dark Oak Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Mangrove Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Cherry Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Pale Oak Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Crimson Hyphae: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Warped Hyphae: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+
+>Stripped Oak Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Stripped Spruce Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Stripped Birch Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Stripped Jungle Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Stripped Acacia Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Stripped Dark Oak Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Stripped Mangrove Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Stripped Cheryy Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Stripped Pale Oak Wood: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Stripped Crimson Hyphae: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+>Stripped Warped Hyphae: 3.19$ 3.19pts 2.42xp (+0.4 mỗi level)
+
+	- Kill: 
+>Player: 12.00$ 12.00pts 15.00xp (+0.5 mỗi level)
+
+
+
+
