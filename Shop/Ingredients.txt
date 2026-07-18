@@ -1,0 +1,47 @@
+-Ingredients (Dragon's Breath): Slot 22
+"Raw materials and mob drops used for crafting items."
+---------------------------------------
+>Charcoal: Buy - 4 / Sell - Disable
+>Stick: Buy - 2 / Sell - Disable
+>Flint: Buy - 2 / Sell - Disable
+>Wheat: Buy - 2 / Sell - 1
+>Bone Meal: Buy - 4 / Sell - 1
+>Snow Ball: Buy - 4 / Sell - 1
+>Honeycomb: Buy - 12 / Sell - 2
+>Clay Ball: Buy - 4 / Sell - 1
+>Nautilus Shell: Buy - 45 / Sell - 3
+>Heart of the Sea: Buy - Disable / Sell - 110
+>Fire Charge: Buy - 28 / Sell - 4
+>Popped Chorus Fruit: Buy - 15 / Sell - Disable
+>Echo Shard: Buy - Disable / Sell - 30
+>Disc Fragment: Buy - Disable / Sell - 40
+>Bowl: Buy - 4 / Sell - 1
+
+>White Dye: Buy - 4 / Sell - 1
+>Light Gray Dye: Buy - 4 / Sell - 1
+>Gray Dye: Buy - 4 / Sell - 1
+>Black Dye: Buy - 4 / Sell - 1
+>Brown Dye: Buy - 4 / Sell - 1
+>Red Dye: Buy - 4 / Sell - 1
+>Orange Dye: Buy - 4 / Sell - 1
+>Yellow Dye: Buy - 4 / Sell - 1
+>Lime Dye: Buy - 4 / Sell - 1
+>Green Dye: Buy - 4 / Sell - 1
+>Cyan Dye: Buy - 4 / Sell - 1
+>Light Blue Dye: Buy - 4 / Sell - 1
+>Blue Dye: Buy - 4 / Sell - 1
+>Purple Dye: Buy - 4 / Sell - 1
+>Magenta Dye: Buy - 4 / Sell - 1
+>Pink Dye: Buy - 4 / Sell - 1
+
+>Brick: Buy - 4 / Sell - Disable
+>Nether Brick: Buy - 4 / Sell - Disable
+>Paper: Buy - 4 / Sell - 1
+>Book: Buy - 8 / Sell - 1
+>Glass Bottle: Buy - 10 / Sell - 2
+>Nether Wart: Buy - 30 / Sell - 3
+>Glowstone Dust: Buy - 20 / Sell - 4
+>Fermented Spider Eye: Buy - 18 / Sell - 3
+>Sugar: Buy - 4 / Sell - 1
+>Glistering Melon Slice: Buy - Disable / Sell - 26
+>Turtle Shell: Buy - 250 / Sell - 20

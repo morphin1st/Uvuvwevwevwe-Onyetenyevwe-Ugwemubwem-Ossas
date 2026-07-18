@@ -1,0 +1,156 @@
+-Optional (Ender Pearl): Slot 14
+"Extra items and bonus content tailored for the server."
+-------------------------------
+>Bucket: Buy - 16 / Sell - 3
+>Water Bucket: Buy - 18 / Sell - 3
+>Lava Bucket: Buy - 20 / Sell - 3
+>Powder Snow Bucket: Buy - 22 / Sell - 3
+>Milk Bucket: Buy - 26 / Sell - 4
+
+>Fishing Rod: Buy - 25 / Sell - Disable
+>Flint and Steel: Buy - 24 / Sell - Disable
+>Shears: Buy - 19 / Sell - Disable
+>Brush: Buy - 28 / Sell - Disable
+>Name Tag: Buy - 26 / Sell - 3
+>Lead: Buy - 40 / Sell - Disable
+
+>Field Masoned Banner Pattern: Buy - 120 / Sell - Disable
+>Bordure Indented Banner Pattern: Buy - 120 / Sell - Disable
+>Flower Charge Banner Pattern: Buy - 120 / Sell - Disable
+>Creeper Charge Banner Pattern: Buy - 120 / Sell - Disable
+>Skull Charge Banner Pattern: Buy - 120 / Sell - Disable
+>Thing Banner Pattern: Buy - 950 / Sell - Disable
+>Globe Banner Pattern: Buy - 260 / Sell - Disable
+>Snout Banner Pattern: Buy - 260 / Sell - Disable
+>Flow Banner Pattern: Buy - 380 / Sell - Disable
+>Guster Banner Pattern: Buy - 380 / Sell - Disable
+
+>Bottle o' Enchanting: Buy - 450 / Sell - Disable
+
+>Totem of Undying: Buy - 100 / Sell - Disable
+
+>Elytra: Buy - Disable / Sell - 10000 (Chỉ cho bán 2 cánh/player)
+
+>Trident: Buy - Disable / Sell - 8000 (Chỉ cho bán 2-3 cây/player)
+
+>Wolf Armor: Buy - 100 / Sell - Disable
+
+>Spectral Arrow: Buy - 40 / Sell - Disable
+>Arrow of Night Vision (0:22): Buy - 140 / Sell - Disable
+>Arrow of Night Vision (1:00): Buy - 160 / Sell - Disable
+>Arrow of Invisibility (0:22): Buy - 140 / Sell - Disable
+>Arrow of Invisibility (1:00): Buy - 160 / Sell - Disable
+>Arrow of Leaping (0:22): Buy - 140 / Sell - Disable
+>Arrow of Leaping (1:00): Buy - 160 / Sell - Disable
+>Arrow of Leaping (2): Buy - 210 / Sell - Disable
+>Arrow of Fire Resistance (0:22): Buy - 140 / Sell - Disable
+>Arrow of Fire Resistance (1:00): Buy - 160 / Sell - Disable
+>Arrow of Swiftness (0:22): Buy - 140 / Sell - Disable
+>Arrow of Swiftness (1:00): Buy - 160 / Sell - Disable
+>Arrow of Swiftness (2): Buy - 210 / Sell - Disable
+>Arrow of Slowness (0:22): Buy - 140 / Sell - Disable
+>Arrow of Slowness (1:00): Buy - 160 / Sell - Disable
+>Arrow of Slowness (2): Buy - 210 / Sell - Disable
+>Arrow of the Turtle Master (0:02): Buy - 200 / Sell - Disable
+>Arrow of the Turtle Master (0:05): Buy - 240 / Sell - Disable
+>Arrow of the Turtle Master (2): Buy - 320 / Sell - Disable
+>Arrow of Water Breathing (0:22): Buy - 140 / Sell - Disable
+>Arrow of Water Breathing (1:00): Buy - 160 / Sell - Disable
+>Arrow of Healing: Buy - 100 / Sell - Disable
+>Arrow of Healing (2): Buy - 120 / Sell - Disable
+>Arrow of Harming: Buy - 100 / Sell - Disable
+>Arrow of Harming (2): Buy - 120 / Sell - Disable
+>Arrow of Poison (0:05): Buy - 150 / Sell - Disable
+>Arrow of Poison (0:11): Buy - 220 / Sell - Disable
+>Arrow of Poison (2): Buy - 300 / Sell - Disable
+>Arrow of Regeneration (0:05): Buy - 150 / Sell - Disable
+>Arrow of Regeneration (0:11): Buy - 220 / Sell - Disable
+>Arrow of Regeneration (2): Buy - 300 / Sell - Disable
+>Arrow of Strength (0:22): Buy - 140 / Sell - Disable
+>Arrow of Strength (1:00): Buy - 160 / Sell - Disable
+>Arrow of Strength (2): Buy - 210 / Sell - Disable
+>Arrow of Weakness (0:11): Buy - 180 / Sell - Disable
+>Arrow of Weakness (0:30): Buy - 260 / Sell - Disable
+>Arrow of Slow Falling (0:11): Buy - 250 / Sell - Disable
+>Arrow of Slow Falling (0:30): Buy - 390 / Sell - Disable
+>Arrow of Wind Charging: Buy - 400 / Sell - Disable
+>Arrow of Weaving: Buy - 430 / Sell - Disable
+>Arrow of Oozing: Buy - 240 / Sell - Disable
+>Arrow of Infestation: Buy - 310 / Sell - Disable
+
+>Bundle: Buy - 12 / Sell - Disable
+>White Bundle: Buy - 18 / Sell - 2
+>Light Gray Bundle: Buy - 18 / Sell - 2
+>Gray Bundle: Buy - 18 / Sell - 2
+>Black Bundle: Buy - 18 / Sell - 2
+>Brown Bundle: Buy - 18 / Sell - 2
+>Red Bundle: Buy - 18 / Sell - 2
+>Orange Bundle: Buy - 18 / Sell - 2
+>Yellow Bundle: Buy - 18 / Sell - 2
+>Lime Bundle: Buy - 18 / Sell - 2
+>Green Bundle: Buy - 18 / Sell - 2
+>Cyan Bundle: Buy - 18 / Sell - 2
+>Light Blue Bundle: Buy - 18 / Sell - 2
+>Blue Bundle: Buy - 18 / Sell - 2
+>Purple Bundle: Buy - 18 / Sell - 2
+>Magenta Bundle: Buy - 18 / Sell - 2
+>Pink Bundle: Buy - 18 / Sell - 2
+
+>Compass: Buy - 18 / Sell - 2
+>Clock: Buy - 18 / Sell - 2
+>Spyglass: Buy - 18 / Sell - 2
+>Empty Map: Buy - 18 / Sell - 2
+>Book and Quill: Buy - 18 / Sell - 2
+>Saddle: Buy - 18 / Sell - 2
+
+>White Harness: Buy - 12 / Sell - 2
+>Light Gray Harness: Buy - 12 / Sell - 2
+>Gray Harness: Buy - 12 / Sell - 2
+>Black Harness: Buy - 12 / Sell - 2
+>Brown Harness: Buy - 12 / Sell - 2
+>Red Harness: Buy - 12 / Sell - 2
+>Orange Harness: Buy - 12 / Sell - 2
+>Yellow Harness: Buy - 12 / Sell - 2
+>Lime Harness: Buy - 12 / Sell - 2
+>Green Harness: Buy - 12 / Sell - 2
+>Cyan Harness: Buy - 12 / Sell - 2
+>Light Blue Harness: Buy - 12 / Sell - 2
+>Blue Harness: Buy - 12 / Sell - 2
+>Purple Harness: Buy - 12 / Sell - 2
+>Magenta Harness: Buy - 12 / Sell - 2
+>Pink Harness: Buy - 12 / Sell - 2
+
+>Oak Boat: Buy - 8 / Sell - 1
+>Spruce Boat: Buy - 8 / Sell - 1
+>Birch Boat: Buy - 8 / Sell - 1
+>Jungle Boat: Buy - 8 / Sell - 1
+>Acacia Boat: Buy - 8 / Sell - 1
+>Dark Oak Boat: Buy - 8 / Sell - 1
+>Mangrove Boat: Buy - 8 / Sell - 1
+>Cherry Boat: Buy - 8 / Sell - 1
+>Pale Oak Boat: Buy - 8 / Sell - 1
+>Bamboo Raft: Buy - 8 / Sell - 1
+
+>Oak Boat with Chest: Buy - 12 / Sell - 2
+>Spruce Boat with Chest: Buy - 12 / Sell - 2
+>Birch Boat with Chest: Buy - 12 / Sell - 2
+>Jungle Boat with Chest: Buy - 12 / Sell - 2
+>Acacia Boat with Chest: Buy - 12 / Sell - 2
+>Dark Oak Boat with Chest: Buy - 12 / Sell - 2
+>Mangrove Boat with Chest: Buy - 12 / Sell - 2
+>Cherry Boat with Chest: Buy - 12 / Sell - 2
+>Pale Oak Boat with Chest: Buy - 12 / Sell - 2
+>Bamboo Raft with Chest: Buy - 12 / Sell - 2
+
+>Rail: Buy - 6 / Sell - 1
+>Powered Rail: Buy - 28 / Sell - 4
+>Detector Rail: Buy - 16 / Sell - 2
+>Activator Rail: Buy - 10 / Sell - 2
+
+>Minecart: Buy - 8 / Sell - 1
+>Minecart with Hopper: Buy - 15 / Sell - 2
+>Minecart with Chest: Buy - 13 / Sell - 2
+>Minecart with Furnace: Buy - 13 / Sell - 2
+>Minecart with TNT: Buy - 24 / Sell - Disable
+
+>Respawn Anchor: Buy - 200 / Sell - Disable

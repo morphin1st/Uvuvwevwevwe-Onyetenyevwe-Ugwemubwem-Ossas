@@ -1,0 +1,30 @@
+- Redstone (Redstone Block): Slot 32
+"Technical components used to build automated mechanisms and circuits."
+------------------------------------
++Redstone Dust: Buy - 0.5 / Sell - Disable
++Redstone Torch: Buy - 2 / Sell - Disable
++Block of Redstone: Buy - 20 / Sell - 4
++Redstone Repeater: Buy - 12 / Sell - 2
++Redstone Comparator: Buy - 14 / Sell - 2
++Target: Buy - 14 / Sell - 2
++Lever: Buy - 1 / Sell - Disable
++Light Weighted Pressure Plate: Buy - 8 / Sell - 1
++Heavy Weighted Pressure Plate: Buy - 10 / Sell - 2
++Sculk Sensor: Buy - Disable / Sell - 60
++Calibrated Sculk Sensor: Buy - Disable / Sell - 75
++Sculk Shrieker: Buy - Disable / Sell - 100
++Tripwire Hook: Buy - 4 / Sell - 1
++Daylight Detector: Buy - 25 / Sell - 3
++Piston: Buy - 15 / Sell - 2
++Sticky Piston: Buy - 18 / Sell - 3
++Slime Block: Buy - 30 / Sell - 5
++Dispenser: Buy - 15 / Sell - 2
++Dropper: Buy - 12 / Sell - 2
++Crafter: Buy - 28 / Sell - 4
++Hopper: Buy - 12 / Sell - 2
++Trapped Chest: Buy - 8 / Sell - 1
++Observer: Buy - 14 / Sell - 2
++Note Block: Buy - 12 / Sell - 2
++Iron Door: Buy - 15 / Sell - 2
++Iron Trapdoor: Buy - 12 / Sell - 2
++Redstone Lamp: Buy - 14 / Sell - 2

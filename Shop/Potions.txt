@@ -1,0 +1,138 @@
+-Potions (Potion of Healing): Slot 39
+"Brewing ingredients and bottles with unique status effects."
+-----------------------------------
+>Honey Bottle: Buy - 67; Sell - 20
+>Ominous Bottle (Bad Omen): Buy - Disable; Sell - 600
+>Ominous Bottle (Bad Omen 2): Buy - Disable; Sell - 700
+>Ominous Bottle (Bad Omen 3): Buy - Disable; Sell - 800
+>Ominous Bottle (Bad Omen 4): Buy - Disable; Sell - 900
+>Ominous Bottle (Bad Omen 5): Buy - Disable; Sell - 1200
+>Water Bottle: Buy - 15; Sell - 2
+
+>Potion of Night Vision (3:00): Buy - 420; Sell - 120
+>Potion of Night Vision (8:00): Buy - 460; Sell - 180
+>Potion of Invisibility (3:00): Buy - 520; Sell - 190
+>Potion of Invisibility (8:00): Buy - 560; Sell - 260
+>Potion of Leaping (3:00): Buy - 420; Sell - 120
+>Potion of Leaping (8:00): Buy - 460; Sell - 180
+>Potion of Leaping 2: Buy - 530; Sell - 210
+>Potion of Fire Resistance (3:00): Buy - 420; Sell - 120
+>Potion of Fire Resistance (8:00): Buy - 460; Sell - 180
+>Potion of Swiftness (3:00): Buy - 420; Sell - 120
+>Potion of Swiftness (8:00): Buy - 460; Sell - 180
+>Potion of Swiftness 2: Buy - 530; Sell - 210
+>Potion of Slowness (3:00): Buy - 490; Sell - 230
+>Potion of Slowness (8:00): Buy - 610; Sell - 270
+>Potion of Slowness (2): Buy - 740; Sell - 310
+>Potion of Turtle Master (0:20): Buy - 1040; Sell - 300
+>Potion of Turtle Master (0:40): Buy - 1120; Sell - 350
+>Potion of Turtle Master (4-6): Buy - 1290; Sell - 430
+>Potion of Water Breathing (3:00): Buy - 420; Sell - 120
+>Potion of Water Breathing (8:00): Buy - 460; Sell - 180
+>Potion of Healing: Buy - 420; Sell - 120
+>Potion of Healing (2): Buy - 460; Sell - 180
+>Potion of Harming: Buy - 620; Sell - 220
+>Potion of Harming (2): Buy - 845; Sell - 290
+>Potion of Poison (0:45): Buy - 420; Sell - 120
+>Potion of Poison (1:30): Buy - 460; Sell - 180
+>Potion of Poison (2): Buy - 530; Sell - 210
+>Potion of Regeneration (0:45): Buy - 560; Sell - 170
+>Potion of Regeneration (1:30): Buy - 620; Sell - 220
+>Potion of Regeneration (2): Buy - 790; Sell - 300
+>Potion of Strength (3:00): Buy - 420; Sell - 120
+>Potion of Strength (8:00): Buy - 460; Sell - 180
+>Potion of Strength (2): Buy - 530; Sell - 210
+>Potion of Weakness (1:30): Buy - 260; Sell - 60
+>Potion of Weakness (4:00): Buy - 470; Sell - 80
+>Potion of Slow Falling (1:30): Buy - 260; Sell - 60
+>Potion of Slow Falling (4:00): Buy - 470; Sell - 80
+>Potion of Wind Charging (3:00): Buy - 570; Sell - 140
+>Potion of Weaving (3:00): Buy - 620; Sell - 110
+>Potion of Oozing (3:00): Buy - 730; Sell - 160
+>Potion of Infestation (3:00): Buy - 340; Sell - 70
+
+>Splash Potion of Night Vision (3:00): Buy - 440; Sell - 140
+>Splash Potion of Night Vision (8:00): Buy - 480; Sell - 200
+>Splash Potion of Invisibility (3:00): Buy - 440; Sell - 140
+>Splash Potion of Invisibility (8:00): Buy - 480; Sell - 200
+>Splash Potion of Leaping (3:00): Buy - 440; Sell - 140
+>Splash Potion of Leaping (8:00): Buy - 480; Sell - 200
+>Splash Potion of Leaping 2: Buy - 550; Sell - 230
+>Splash Potion of Fire Resistance (3:00): Buy - 440; Sell - 140
+>Splash Potion of Fire Resistance (8:00): Buy - 480; Sell - 200
+>Splash Potion of Swiftness (3:00): Buy - 440; Sell - 140
+>Splash Potion of Swiftness (8:00): Buy - 480; Sell - 200
+>Splash Potion of Swiftness 2: Buy - 550; Sell - 230
+>Splash Potion of Slowness (3:00): Buy - 510; Sell - 250
+>Splash Potion of Slowness (8:00): Buy - 630; Sell - 290
+>Splash Potion of Slowness (2): Buy - 760; Sell - 330
+>Splash Potion of Turtle Master (0:20): Buy - 1060; Sell - 320
+>Splash Potion of Turtle Master (0:40): Buy - 1180; Sell - 370
+>Splash Potion of Turtle Master (4-6): Buy - 1310; Sell - 450
+>Splash Potion of Water Breathing (3:00): Buy - 440; Sell - 140
+>Splash Potion of Water Breathing (8:00): Buy - 480; Sell - 200
+>Splash Potion of Healing: Buy - 440; Sell - 140
+>Splash Potion of Healing (2): Buy - 480; Sell - 200
+>Splash Potion of Harming: Buy - 640; Sell - 240
+>Splash Potion of Harming (2): Buy - 865; Sell - 310
+>Splash Potion of Poison (0:45): Buy - 440; Sell - 140
+>Splash Potion of Poison (1:30): Buy - 480; Sell - 200
+>Splash Potion of Poison (2): Buy - 550; Sell - 230
+>Splash Potion of Regeneration (0:45): Buy - 580; Sell - 190
+>Splash Potion of Regeneration (1:30): Buy - 640; Sell - 240
+>Splash Potion of Regeneration (2): Buy - 810; Sell - 320
+>Splash Potion of Strength (3:00): Buy - 440; Sell - 140
+>Splash Potion of Strength (8:00): Buy - 480; Sell - 200
+>Splash Potion of Strength (2): Buy - 550; Sell - 230
+>Splash Potion of Weakness (1:30): Buy - 280; Sell - 80
+>Splash Potion of Weakness (4:00): Buy - 490; Sell - 100
+>Splash Potion of Slow Falling (1:30): Buy - 280; Sell - 80
+>Splash Potion of Slow Falling (4:00): Buy - 490; Sell - 100
+>Splash Potion of Wind Charging (3:00): Buy - 590; Sell - 160
+>Splash Potion of Weaving (3:00): Buy - 640; Sell - 130
+>Splash Potion of Oozing (3:00): Buy - 750; Sell - 180
+>Splash Potion of Infestation (3:00): Buy - 360; Sell - 90
+
+>Lingering Potion of Night Vision (3:00): Buy - 480; Sell - 180
+>Lingering Potion of Night Vision (8:00): Buy - 520; Sell - 240
+>Lingering Potion of Invisibility (3:00): Buy - 480; Sell - 180
+>Lingering Potion of Invisibility (8:00): Buy - 520; Sell - 240
+>Lingering Potion of Leaping (3:00): Buy - 480; Sell - 180
+>Lingering Potion of Leaping (8:00): Buy - 520; Sell - 240
+>Lingering Potion of Leaping 2: Buy - 590; Sell - 270
+>Lingering Potion of Fire Resistance (3:00): Buy - 480; Sell - 180
+>Lingering Potion of Fire Resistance (8:00): Buy - 520; Sell - 240
+>Lingering Potion of Swiftness (3:00): Buy - 480; Sell - 180
+>Lingering Potion of Swiftness (8:00): Buy - 520; Sell - 240
+>Lingering Potion of Swiftness 2: Buy - 590; Sell - 270
+>Lingering Potion of Slowness (3:00): Buy - 550; Sell - 290
+>Lingering Potion of Slowness (8:00): Buy - 670; Sell - 330
+>Lingering Potion of Slowness (2): Buy - 800; Sell - 370
+>Lingering Potion of Turtle Master (0:20): Buy - 1100; Sell - 360
+>Lingering Potion of Turtle Master (0:40): Buy - 1220; Sell - 410
+>Lingering Potion of Turtle Master (4-6): Buy - 1350; Sell - 490
+>Lingering Potion of Water Breathing (3:00): Buy - 480; Sell - 180
+>Lingering Potion of Water Breathing (8:00): Buy - 520; Sell - 240
+>Lingering Potion of Healing: Buy - 480; Sell - 180
+>Lingering Potion of Healing (2): Buy - 520; Sell - 240
+>Lingering Potion of Harming: Buy - 680; Sell - 280
+>Lingering Potion of Harming (2): Buy - 905; Sell - 350
+>Lingering Potion of Poison (0:45): Buy - 480; Sell - 180
+>Lingering Potion of Poison (1:30): Buy - 520; Sell - 240
+>Lingering Potion of Poison (2): Buy - 590; Sell - 270
+>Lingering Potion of Regeneration (0:45): Buy - 620; Sell - 230
+>Lingering Potion of Regeneration (1:30): Buy - 680; Sell - 280
+>Lingering Potion of Regeneration (2): Buy - 850; Sell - 360
+>Lingering Potion of Strength (3:00): Buy - 480; Sell - 180
+>Lingering Potion of Strength (8:00): Buy - 520; Sell - 240
+>Lingering Potion of Strength (2): Buy - 590; Sell - 270
+>Lingering Potion of Weakness (1:30): Buy - 320; Sell - 120
+>Lingering Potion of Weakness (4:00): Buy - 530; Sell - 140
+>Lingering Potion of Slow Falling (1:30): Buy - 320; Sell - 120
+>Lingering Potion of Slow Falling (4:00): Buy - 530; Sell - 140
+>Lingering Potion of Wind Charging (3:00): Buy - 630; Sell - 200
+>Lingering Potion of Weaving (3:00): Buy - 680; Sell - 170
+>Lingering Potion of Oozing (3:00): Buy - 790; Sell - 220
+>Lingering Potion of Infestation (3:00): Buy - 400; Sell - 130
+
+

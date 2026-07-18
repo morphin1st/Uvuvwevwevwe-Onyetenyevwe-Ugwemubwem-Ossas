@@ -1,0 +1,432 @@
+-Building Block (Bricks): Slot 30
+"Standard blocks used for building and structural construction."
+-----------------------------
+>Oak Planks: Buy - 0.2 / Sell - Disable
+>Oak Wood Stairs: Buy - 0.2 / Sell - Disable
+>Oak Wood Slab: Buy - 0.2 / Sell - Disable
+>Oak Wood Fence: Buy - 0.3 / Sell - Disable
+>Oak Wood Fence Gate: Buy - 0.3 / Sell - Disable
+>Oak Door: Buy - 0.3 / Sell - Disable
+>Oak Log: Buy - 0.2 / Sell - Disable
+>Oak Stripped Log: Buy - 0.2 / Sell - Disable
+>Oak Wood: Buy - 0.2 / Sell - Disable
+>Oak Stripped Wood: Buy - 0.2 / Sell - Disable
+>Oak Wood Button: Buy - 0.1 / Sell - Disable
+>Oak Wood Pressure Plate: Buy - 0.2 / Sell - Disable
+>Oak Wood Trapdoor: Buy - 0.2 / Sell - Disable
+
+>Spruce Planks: Buy - 0.2 / Sell - Disable
+>Spruce Wood Stairs: Buy - 0.2 / Sell - Disable
+>Spruce Wood Slab: Buy - 0.2 / Sell - Disable
+>Spruce Wood Fence: Buy - 0.3 / Sell - Disable
+>Spruce Wood Fence Gate: Buy - 0.3 / Sell - Disable
+>Spruce Door: Buy - 0.3 / Sell - Disable
+>Spruce Log: Buy - 0.2 / Sell - Disable
+>Spruce Stripped Log: Buy - 0.2 / Sell - Disable
+>Spruce Wood: Buy - 0.2 / Sell - Disable
+>Spruce Stripped Wood: Buy - 0.2 / Sell - Disable
+>Spruce Wood Button: Buy - 0.1 / Sell - Disable
+>Spruce Wood Pressure Plate: Buy - 0.2 / Sell - Disable
+>Spruce Wood Trapdoor: Buy - 0.2 / Sell - Disable
+
+>Birch Planks: Buy - 0.2 / Sell - Disable
+>Birch Wood Stairs: Buy - 0.2 / Sell - Disable
+>Birch Wood Slab: Buy - 0.2 / Sell - Disable
+>Birch Wood Fence: Buy - 0.3 / Sell - Disable
+>Birch Wood Fence Gate: Buy - 0.3 / Sell - Disable
+>Birch Door: Buy - 0.3 / Sell - Disable
+>Birch Log: Buy - 0.2 / Sell - Disable
+>Birch Stripped Log: Buy - 0.2 / Sell - Disable
+>Birch Wood: Buy - 0.2 / Sell - Disable
+>Birch Stripped Wood: Buy - 0.2 / Sell - Disable
+>Birch Wood Button: Buy - 0.1 / Sell - Disable
+>Birch Wood Pressure Plate: Buy - 0.2 / Sell - Disable
+>Birch Wood Trapdoor: Buy - 0.2 / Sell - Disable
+
+>Jungle Planks: Buy - 0.2 / Sell - Disable
+>Jungle Wood Stairs: Buy - 0.2 / Sell - Disable
+>Jungle Wood Slab: Buy - 0.2 / Sell - Disable
+>Jungle Wood Fence: Buy - 0.3 / Sell - Disable
+>Jungle Wood Fence Gate: Buy - 0.3 / Sell - Disable
+>Jungle Door: Buy - 0.3 / Sell - Disable
+>Jungle Log: Buy - 0.2 / Sell - Disable
+>Jungle Stripped Log: Buy - 0.2 / Sell - Disable
+>Jungle Wood: Buy - 0.2 / Sell - Disable
+>Jungle Stripped Wood: Buy - 0.2 / Sell - Disable
+>Jungle Wood Button: Buy - 0.1 / Sell - Disable
+>Jungle Wood Pressure Plate: Buy - 0.2 / Sell - Disable
+>Jungle Wood Trapdoor: Buy - 0.2 / Sell - Disable
+
+>Acacia Planks: Buy - 0.2 / Sell - Disable
+>Acacia Wood Stairs: Buy - 0.2 / Sell - Disable
+>Acacia Wood Slab: Buy - 0.2 / Sell - Disable
+>Acacia Wood Fence: Buy - 0.3 / Sell - Disable
+>Acacia Wood Fence Gate: Buy - 0.3 / Sell - Disable
+>Acacia Door: Buy - 0.3 / Sell - Disable
+>Acacia Log: Buy - 0.2 / Sell - Disable
+>Acacia Stripped Log: Buy - 0.2 / Sell - Disable
+>Acacia Wood: Buy - 0.2 / Sell - Disable
+>Acacia Stripped Wood: Buy - 0.2 / Sell - Disable
+>Acacia Wood Button: Buy - 0.1 / Sell - Disable
+>Acacia Wood Pressure Plate: Buy - 0.2 / Sell - Disable
+>Acacia Wood Trapdoor: Buy - 0.2 / Sell - Disable
+
+>Dark Oak Planks: Buy - 0.2 / Sell - Disable
+>Dark Oak Wood Stairs: Buy - 0.2 / Sell - Disable
+>Dark Oak Wood Slab: Buy - 0.2 / Sell - Disable
+>Dark Oak Wood Fence: Buy - 0.3 / Sell - Disable
+>Dark Oak Wood Fence Gate: Buy - 0.3 / Sell - Disable
+>Dark Oak Door: Buy - 0.3 / Sell - Disable
+>Dark Oak Log: Buy - 0.2 / Sell - Disable
+>Dark Oak Stripped Log: Buy - 0.2 / Sell - Disable
+>Dark Oak Wood: Buy - 0.2 / Sell - Disable
+>Dark Oak Stripped Wood: Buy - 0.2 / Sell - Disable
+>Dark Oak Wood Button: Buy - 0.1 / Sell - Disable
+>Dark Oak Wood Pressure Plate: Buy - 0.2 / Sell - Disable
+>Dark Oak Wood Trapdoor: Buy - 0.2 / Sell - Disable
+
+>Mangrove Planks: Buy - 0.2 / Sell - Disable
+>Mangrove Wood Stairs: Buy - 0.2 / Sell - Disable
+>Mangrove Wood Slab: Buy - 0.2 / Sell - Disable
+>Mangrove Wood Fence: Buy - 0.3 / Sell - Disable
+>Mangrove Wood Fence Gate: Buy - 0.3 / Sell - Disable
+>Mangrove Door: Buy - 0.3 / Sell - Disable
+>Mangrove Log: Buy - 0.2 / Sell - Disable
+>Mangrove Stripped Log: Buy - 0.2 / Sell - Disable
+>Mangrove Wood: Buy - 0.2 / Sell - Disable
+>Mangrove Stripped Wood: Buy - 0.2 / Sell - Disable
+>Mangrove Wood Button: Buy - 0.1 / Sell - Disable
+>Mangrove Wood Pressure Plate: Buy - 0.2 / Sell - Disable
+>Mangrove Wood Trapdoor: Buy - 0.2 / Sell - Disable
+
+>Cherry Planks: Buy - 0.2 / Sell - Disable
+>Cherry Wood Stairs: Buy - 0.2 / Sell - Disable
+>Cherry Wood Slab: Buy - 0.2 / Sell - Disable
+>Cherry Wood Fence: Buy - 0.3 / Sell - Disable
+>Cherry Wood Fence Gate: Buy - 0.3 / Sell - Disable
+>Cherry Door: Buy - 0.3 / Sell - Disable
+>Cherry Log: Buy - 0.2 / Sell - Disable
+>Cherry Stripped Log: Buy - 0.2 / Sell - Disable
+>Cherry Wood: Buy - 0.2 / Sell - Disable
+>Cherry Stripped Wood: Buy - 0.2 / Sell - Disable
+>Cherry Wood Button: Buy - 0.1 / Sell - Disable
+>Cherry Wood Pressure Plate: Buy - 0.2 / Sell - Disable
+>Cherry Wood Trapdoor: Buy - 0.2 / Sell - Disable
+
+>Pale Oak Planks: Buy - 0.2 / Sell - Disable
+>Pale Oak Wood Stairs: Buy - 0.2 / Sell - Disable
+>Pale Oak Wood Slab: Buy - 0.2 / Sell - Disable
+>Pale Oak Wood Fence: Buy - 0.3 / Sell - Disable
+>Pale Oak Wood Fence Gate: Buy - 0.3 / Sell - Disable
+>Pale Oak Door: Buy - 0.3 / Sell - Disable
+>Pale Oak Log: Buy - 0.2 / Sell - Disable
+>Pale Oak Stripped Log: Buy - 0.2 / Sell - Disable
+>Pale Oak Wood: Buy - 0.2 / Sell - Disable
+>Pale Oak Stripped Wood: Buy - 0.2 / Sell - Disable
+>Pale Oak Wood Button: Buy - 0.1 / Sell - Disable
+>Pale Oak Wood Pressure Plate: Buy - 0.2 / Sell - Disable
+>Pale Oak Wood Trapdoor: Buy - 0.2 / Sell - Disable
+
+>Bamboo Planks: Buy - 0.2 / Sell - Disable
+>Bamboo Stairs: Buy - 0.2 / Sell - Disable
+>Bamboo Slab: Buy - 0.2 / Sell - Disable
+>Bamboo Fence: Buy - 0.3 / Sell - Disable
+>Bamboo Fence Gate: Buy - 0.3 / Sell - Disable
+>Bamboo Door: Buy - 0.3 / Sell - Disable
+>Block of Bamboo: Buy - 0.2 / Sell - Disable
+>Block of Stripped Bamboo: Buy - 0.2 / Sell - Disable
+>Bamboo Mosaic: Buy - 0.2 / Sell - Disable
+>Bamboo Mosaic Stairs: Buy - 0.2 / Sell - Disable
+>Bamboo Mosaic Slab: Buy - 0.2 / Sell - Disable
+>Bamboo Button: Buy - 0.1 / Sell - Disable
+>Bamboo Pressure Plate: Buy - 0.2 / Sell - Disable
+>Bamboo Trapdoor: Buy - 0.2 / Sell - Disable
+
+>Crimson Planks: Buy - 0.2 / Sell - Disable
+>Crimson Stairs: Buy - 0.2 / Sell - Disable
+>Crimson Slab: Buy - 0.2 / Sell - Disable
+>Crimson Fence: Buy - 0.3 / Sell - Disable
+>Crimson Fence Gate: Buy - 0.3 / Sell - Disable
+>Crimson Door: Buy - 0.3 / Sell - Disable
+>Crimson Stem: Buy - 0.2 / Sell - Disable
+>Crimson Stripped Stem: Buy - 0.2 / Sell - Disable
+>Crimson Hyphae: Buy - 0.2 / Sell - Disable
+>Crimson Stripped Hyphae: Buy - 0.2 / Sell - Disable
+>Crimson Button: Buy - 0.1 / Sell - Disable
+>Crimson Pressure Plate: Buy - 0.2 / Sell - Disable
+>Crimson Trapdoor: Buy - 0.2 / Sell - Disable
+
+>Warped Planks: Buy - 0.2 / Sell - Disable
+>Warped Stairs: Buy - 0.2 / Sell - Disable
+>Warped Slab: Buy - 0.2 / Sell - Disable
+>Warped Fence: Buy - 0.3 / Sell - Disable
+>Warped Fence Gate: Buy - 0.3 / Sell - Disable
+>Warped Door: Buy - 0.3 / Sell - Disable
+>Warped Stem: Buy - 0.2 / Sell - Disable
+>Warped Stripped Stem: Buy - 0.2 / Sell - Disable
+>Warped Hyphae: Buy - 0.2 / Sell - Disable
+>Warped Stripped Hyphae: Buy - 0.2 / Sell - Disable
+>Warped Button: Buy - 0.1 / Sell - Disable
+>Warped Pressure Plate: Buy - 0.2 / Sell - Disable
+>Warped Trapdoor: Buy - 0.2 / Sell - Disable
+
+>Stone: Buy - 0.1 / Sell - Disable
+>Stone Stairs: Buy - 2 / Sell - Disable
+>Stone Slab: Buy - 2 / Sell - Disable
+>Stone Pressure Plate: Buy - 1 / Sell - Disable
+>Stone Button: Buy - 1 / Sell - Disable
+
+>Cobblestone: Buy - 0.1 / Sell - Disable
+>Cobblestone Stairs: Buy - 2 / Sell - Disable
+>Cobblestone Slab: Buy - 2 / Sell - Disable
+>Cobblestone Wall: Buy - 3 / Sell - Disable
+
+>Mossy Cobblestone: Buy - 0.4 / Sell - Disable
+>Mossy Cobblestone Stairs: Buy - 2 / Sell - Disable
+>Mossy Cobblestone Slab: Buy - 2 / Sell - Disable
+>Mossy Cobblestone Wall: Buy - 3 / Sell - Disable
+.
+>Smooth Stone: Buy - 2 / Sell - Disable
+>Smooth Stone Slab: Buy - 2 / Sell - Disable
+
+>Stone Bricks: Buy - 0.5 / Sell - Disable
+>Stone Brick Stairs: Buy - 2 / Sell - Disable
+>Stone Brick Slab: Buy - 2 / Sell - Disable
+>Stone Brick Wall: Buy - 3 / Sell - Disable
+>Cracked Stone Bricks: Buy - 5 / Sell - Disable
+>Chiseled Stone Bricks: Buy - 5 / Sell - Disable
+
+>Mossy Stone Bricks: Buy - 0.5 / Sell - Disable
+>Mossy Stone Brick Stairs: Buy - 2 / Sell - Disable
+>Mossy Stone Brick Slab: Buy - 2 / Sell - Disable
+>Mossy Stone Brick Wall: Buy - 3 / Sell - Disable
+
+>Granite: Buy - 1 / Sell - Disable
+>Granite Stairs: Buy - 2 / Sell - Disable
+>Granite Slab: Buy - 2 / Sell - Disable
+>Granite Wall: Buy - 3 / Sell - Disable
+>Polished Granite: Buy - 3 / Sell - Disable
+>Polished Granite Stairs: Buy - 4 / Sell - Disable
+>Polished Granite Slab: Buy - 4 / Sell - Disable
+
+>Diorite: Buy - 1 / Sell - Disable
+>Diorite Stairs: Buy - 2 / Sell - Disable
+>Diorite Slab: Buy - 2 / Sell - Disable
+>Diorite Wall: Buy - 3 / Sell - Disable
+>Polished Diorite: Buy - 3 / Sell - Disable
+>Polished Diorite Stairs: Buy - 4 / Sell - Disable
+>Polished Diorite Slab: Buy - 4 / Sell - Disable
+
+>Andesite: Buy - 1 / Sell - Disable
+>Andesite Stairs: Buy - 2 / Sell - Disable
+>Andesite Slab: Buy - 2 / Sell - Disable
+>Andesite Wall: Buy - 3 / Sell - Disable
+>Polished Andesite: Buy - 3 / Sell - Disable
+>Polished Andesite Stairs: Buy - 4 / Sell - Disable
+>Polished Andesite Slab: Buy - 4 / Sell - Disable
+
+>Deepslate: Buy - 1 / Sell - 1
+>Deepslate Brick Slab: Buy - 2 / Sell - 1
+>Deepslate Brick Stairs: Buy - 2 / Sell - 1
+>Deepslate Brick Wall: Buy - 3 / Sell - 1
+>Deepslate Bricks: Buy - 4 / Sell - 1
+>Cobbled Deepslate: Buy - 4 / Sell - 1
+>Cobbled Deepslate Stairs: Buy - 2 / Sell - 1
+>Cobbled Deepslate Slab: Buy - 2 / Sell - 1
+>Cobbled Deepslate Wall: Buy - 3 / Sell - 1
+>Polished Deepslate: Buy - 5 / Sell - 1
+>Polished Deepslate Stairs: Buy - 3 / Sell - 1
+>Polished Deepslate Slab: Buy - 3 / Sell - 1
+>Polished Deepslate Wall: Buy - 4 / Sell - 1
+>Deepslate Tiles: Buy - 5 / Sell - 1
+>Deepslate Tiles Stairs: Buy - 3 / Sell - 1
+>Deepslate Tiles Slab: Buy - 3 / Sell - 1
+>Deepslate Tiles Wall: Buy - 4 / Sell - 1
+>Chiseled Deepslate: Buy - 6 / Sell - 1
+>Cracked Deepslate Bricks: Buy - 6 / Sell - 1
+>Cracked Deepslate Tiles: Buy - 6 / Sell - 1
+
+>Tuff: Buy - 1 / Sell - 1
+>Tuff Slab: Buy - 2 / Sell - 1
+>Tuff Stairs: Buy - 2 / Sell - 1
+>Tuff Wall: Buy - 3 / Sell - 1
+>Tuff Bricks: Buy - 3 / Sell - 1
+>Tuff Brick Stairs: Buy - 4 / Sell - 1
+>Tuff Brick Slab: Buy - 4 / Sell - 1
+>Tuff Brick Wall: Buy - 5 / Sell - 1
+>Polished Tuff: Buy - 5 / Sell - 1
+>Polished Tuff Slab: Buy - 4 / Sell - 1
+>Polished Tuff Stairs: Buy - 4 / Sell - 1
+>Polished Tuff Wall: Buy - 6 / Sell - 1
+>Chiseled Tuff: Buy - 7 / Sell - 1
+>Chiseled Tuff Bricks: Buy - 7 / Sell - 1
+
+>Bricks: Buy - 4 / Sell - 1
+>Brick Slab: Buy - 5 / Sell - 1
+>Brick Stairs: Buy - 5 / Sell - 1
+>Brick Wall: Buy - 5 / Sell - 1
+
+>Resin Bricks: Buy - 10 / Sell - 2
+>Resin Bricks Stairs: Buy - 12 / Sell - 2
+>Resin Bricks Slab: Buy - 12 / Sell - 2
+>Resin Bricks Wall: Buy - 14 / Sell - 2
+>Chiseled Resin Bricks: Buy - 15 / Sell - 2
+
+>Sandstone: Buy - 4 / Sell - 1
+>Sandstone Slab: Buy - 5 / Sell - 1
+>Sandstone Stairs: Buy - 5 / Sell - 1
+>Sandstone Wall: Buy - 6 / Sell - 1
+>Smooth Sandstone: Buy - 5 / Sell - 1
+>Smooth Sandstone Slab: Buy - 6 / Sell - 1
+>Smooth Sandstone Stairs: Buy - 6 / Sell - 1
+>Chiseled Sandstone: Buy - 8 / Sell - 1
+>Cut Sandstone: Buy - 5 / Sell - 1
+>Cut Sandstone Slab: Buy - 5 / Sell - 1
+
+>Red Sandstone: Buy - 4 / Sell - 1
+>Red Sandstone Slab: Buy - 5 / Sell - 1
+>Red Sandstone Stairs: Buy - 5 / Sell - 1
+>Red Sandstone Wall: Buy - 6 / Sell - 1
+>Smooth Red Sandstone: Buy - 5 / Sell - 1
+>Smooth Red Sandstone Slab: Buy - 6 / Sell - 1
+>Smooth Red Sandstone Stairs: Buy - 6 / Sell - 1
+>Chiseled Red Sandstone: Buy - 8 / Sell - 1
+>Cut Red Sandstone: Buy - 5 / Sell - 1
+>Cut Red Sandstone Slab: Buy - 5 / Sell - 1
+
+>Sea Lantern: Buy - 20 / Sell - 4
+>Prismarine: Buy - 4 / Sell - 1
+>Prismarine Brick Slab: Buy - 5 / Sell - 1
+>Prismarine Brick Stairs: Buy - 5 / Sell - 1
+>Prismarine Bricks: Buy - 4 / Sell - 1
+>Prismarine Slab: Buy - 5 / Sell - 1
+>Prismarine Stairs: Buy - 5 / Sell - 1
+>Prismarine Wall: Buy - 6 / Sell - 1
+>Dark Prismarine: Buy - 8 / Sell - 1
+>Dark Prismarine Slab: Buy - 9 / Sell - 1
+>Dark Prismarine Stairs: Buy - 9 / Sell - 1
+
+>Netherrack: Buy - 1 / Sell - Disable
+>Nether Bricks: Buy - 10 / Sell - 2
+>Cracked Nether Bricks: Buy - 12 / Sell - 2
+>Nether Brick Slab: Buy - 12 / Sell - 2
+>Nether Brick Stairs: Buy - 12 / Sell - 2
+>Nether Brick Wall: Buy - 14 / Sell - 2
+>Red Nether Bricks: Buy - 15 / Sell - 3
+>Red Nether Brick Slab: Buy - 16 / Sell - 3
+>Red Nether Brick Stairs: Buy - 16 / Sell - 3
+>Red Nether Brick Wall: Buy - 18 / Sell - 3
+
+>Basalt: Buy - 4 / Sell - Disable
+>Smooth Basalt: Buy - 8 / Sell - Disable
+
+>Blackstone: Buy - 4 / Sell - Disable
+>Gilded Blackstone: Buy - Disable / Sell - 12000
+>Blackstone Slab: Buy - 5 / Sell - 1
+>Blackstone Stairs: Buy - 5 / Sell - 1
+>Blackstone Wall: Buy - 6 / Sell - 1
+>Polished Blackstone: Buy - 10 / Sell - 2
+>Polished Blackstone Slab: Buy - 12 / Sell - 2
+>Polished Blackstone Stairs: Buy - 12 / Sell - 2
+>Polished Blackstone Wall: Buy - 14 / Sell - 2
+>Polished Blackstone Pressure Plate: Buy - 8 / Sell - 1
+>Polished Blackstone Button: Buy - 4 / Sell - 1
+>Polished Blackstone Bricks: Buy - 10 / Sell - 2
+>Polished Blackstone Brick Stairs: Buy - 12 / Sell - 2
+>Polished Blackstone Brick Slab: Buy - 12 / Sell - 2
+>Polished Blackstone Brick Wall: Buy - 14 / Sell - 2
+>Chiseled Polished Blackstone: Buy - 18 / Sell - 3
+>Cracked Polished Blackstone Bricks: Buy - 18 / Sell - 3
+
+>End Stone: Buy - 4 / Sell - Disable
+>End Stone Bricks: Buy - 6 / Sell - 1
+>End Stone Brick Stairs: Buy - 7 / Sell - 1
+>End Stone Brick Slab: Buy - 7 / Sell - 1
+>End Stone Brick Wall: Buy - 8 / Sell - 1
+
+>Purpur Block: Buy - 4 / Sell - 1
+>Purpur Pillar: Buy - 4 / Sell - 1
+>Purpur Stairs: Buy - 5 / Sell - 1
+>Purpur Slab: Buy - 5 / Sell - 1
+
+>Quartz Blocks: Buy - 4 / Sell - 1
+>Quartz Pillar: Buy - 4 / Sell - 1
+>Chiseled Quartz Block: Buy - 6 / Sell - 1
+>Quartz Stairs: Buy - 5 / Sell - 1
+>Quartz Slab: Buy - 5 / Sell - 1
+>Quartz Bricks: Buy - 6 / Sell - 1
+>Smooth Quartz Block:Buy - 8 / Sell - 1
+>Smooth Quartz Slab:Buy - 10 / Sell - 2
+>Smooth Quartz Stairs:Buy - 10 / Sell - 2
+
+>Chiseled Copper: Buy - 8 / Sell - 1
+>Copper Bulb: Buy - 10 / Sell - 2
+>Copper Door: Buy - 9 / Sell - 1
+>Copper Grate: Buy - 6 / Sell - 1
+>Copper Trapdoor: Buy - 6 / Sell - 1
+>Cut Copper: Buy - 8 / Sell - 1
+>Cut Copper Stairs: Buy - 10 / Sell - 2
+>Cut Copper Slab: Buy - 10 / Sell - 2
+
+>Exposed Chiseled Copper: Buy - 8 / Sell - 1
+>Exposed Copper Bulb: Buy - 10 / Sell - 2
+>Exposed Copper Door: Buy - 9 / Sell - 1
+>Exposed Copper Grate: Buy - 6 / Sell - 1
+>Exposed Copper Trapdoor: Buy - 6 / Sell - 1
+>Exposed Cut Copper: Buy - 8 / Sell - 1
+>Exposed Cut Copper Stairs: Buy - 10 / Sell - 2
+>Exposed Cut Copper Slab: Buy - 10 / Sell - 2
+
+>Weathered Chiseled Copper: Buy - 8 / Sell - 1
+>Weathered Copper Bulb: Buy - 10 / Sell - 2
+>Weathered Copper Door: Buy - 9 / Sell - 1
+>Weathered Copper Grate: Buy - 6 / Sell - 1
+>Weathered Copper Trapdoor: Buy - 6 / Sell - 1
+>Weathered Cut Copper: Buy - 8 / Sell - 1
+>Weathered Cut Copper Stairs: Buy - 10 / Sell - 2
+>Weathered Cut Copper Slab: Buy - 10 / Sell - 2
+
+>Oxidized Chiseled Copper: Buy - 8 / Sell - 1
+>Oxidized Copper Bulb: Buy - 10 / Sell - 2
+>Oxidized Copper Door: Buy - 9 / Sell - 1
+>Oxidized Copper Grate: Buy - 6 / Sell - 1
+>Oxidized Copper Trapdoor: Buy - 6 / Sell - 1
+>Oxidized Cut Copper: Buy - 8 / Sell - 1
+>Oxidized Cut Copper Stairs: Buy - 10 / Sell - 2
+>Oxidized Cut Copper Slab: Buy - 10 / Sell - 2
+
+>Waxed Chiseled Copper: Buy - 8 / Sell - 1
+>Waxed Copper Bulb: Buy - 10 / Sell - 2
+>Waxed Copper Door: Buy - 9 / Sell - 1
+>Waxed Copper Grate: Buy - 6 / Sell - 1
+>Waxed Copper Trapdoor: Buy - 6 / Sell - 1
+>Waxed Cut Copper: Buy - 8 / Sell - 1
+>Waxed Cut Copper Stairs: Buy - 10 / Sell - 2
+>Waxed Cut Copper Slab: Buy - 10 / Sell - 2
+
+>Waxed Exposed Chiseled Copper: Buy - 8 / Sell - 1
+>Waxed Exposed Copper Bulb: Buy - 10 / Sell - 2
+>Waxed Exposed Copper Door: Buy - 9 / Sell - 1
+>Waxed Exposed Copper Grate: Buy - 6 / Sell - 1
+>Waxed Exposed Copper Trapdoor: Buy - 6 / Sell - 1
+>Waxed Exposed Cut Copper: Buy - 8 / Sell - 1
+>Waxed Exposed Cut Copper Stairs: Buy - 10 / Sell - 2
+>Waxed Exposed Cut Copper Slab: Buy - 10 / Sell - 2
+
+>Waxed Weathered Chiseled Copper: Buy - 8 / Sell - 1
+>Waxed Weathered Copper Bulb: Buy - 10 / Sell - 2
+>Waxed Weathered Copper Door: Buy - 9 / Sell - 1
+>Waxed Weathered Copper Grate: Buy - 6 / Sell - 1
+>Waxed Weathered Copper Trapdoor: Buy - 6 / Sell - 1
+>Waxed Weathered Cut Copper: Buy - 8 / Sell - 1
+>Waxed Weathered Cut Copper Stairs: Buy - 10 / Sell - 2
+>Waxed Weathered Cut Copper Slab: Buy - 10 / Sell - 2
+
+>Waxed Oxidized Chiseled Copper: Buy - 8 / Sell - 1
+>Waxed Oxidized Copper Bulb: Buy - 10 / Sell - 2
+>Waxed Oxidized Copper Door: Buy - 9 / Sell - 1
+>Waxed Oxidized Copper Grate: Buy - 6 / Sell - 1
+>Waxed Oxidized Copper Trapdoor: Buy - 6 / Sell - 1
+>Waxed Oxidized Cut Copper: Buy - 8 / Sell - 1
+>Waxed Oxidized Cut Copper Stairs: Buy - 10 / Sell - 2
+>Waxed Oxidized Cut Copper Slab: Buy - 10 / Sell - 2

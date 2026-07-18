@@ -1,0 +1,36 @@
+-Food (Bread): Slot 21
+"Consumable items and crops to satisfy your hunger."
+------------------
++Apple: Buy - 6; Sell - 2
++Golden Apple: Buy - 150; Sell - 10
++Melon Slice: Buy - 2; Sell - 0.3
++Sweet Berries: Buy - 1; Sell - 0.3
++Glow Berries: Buy - 1; Sell - 0.3
++Carrot: Buy - 4; Sell - 1
++Golden Carrot: Buy - 50; Sell - 5
++Potato: Buy - 4; Sell - 1
++Baked Potato: Buy - 5; Sell - 1
++Beetroot: Buy - 4; Sell - 1
++Dried Kelp: Buy - 1; Sell - 0.3
++Raw Beef: Buy - 8; Sell - 2
++Steak: Buy - 10; Sell - 2
++Raw Porkchop: Buy - 8; Sell - 2
++Cooked Porkchop: Buy - 10; Sell - 2
++Raw Mutton: Buy - 8; Sell - 2
++Cooked Mutton: Buy - 10; Sell - 2
++Raw Chicken: Buy - 8; Sell - 2
++Cooked Chicken: Buy - 10; Sell - 2
++Raw Rabbit: Buy - 8; Sell - 2
++Cooked Rabbit: Buy - 10; Sell - 2
++Raw Cod: Buy - 7; Sell - 0.5
++Cooked Cod: Buy - 9; Sell - 1
++Raw Salmon: Buy - 9; Sell - 0.5
++Cooked Salmon: Buy - 11; Sell - 1
++Pufferfish: Buy - 25; Sell - 8
++Bread: Buy - 4; Sell - 1
++Cookie: Buy - 5; Sell - 1
++Cake: Buy - 20; Sell - 3
++Pumkin Pie: Buy - 5; Sell - 1
++Mushroom Stew: Buy - 18; Sell - 3
++Beetroot Soup: Buy - 18; Sell - 3
++Rabbit Stew: Buy - 18; Sell - 3

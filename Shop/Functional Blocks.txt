@@ -1,0 +1,131 @@
+-Functional Blocks (Dark Oak Hanging Sign): Slot 12
+"Interactive blocks and utility containers."
+-------------------------------------------------------
+>Oak Wood Sign: Buy - 1 / Sell - Disable
+>Oak Wood Hanging Sign: Buy - 2 / Sell - Disable
+>Oak Wood Shelf: Buy - 4 / Sell - Disable
+
+>Spruce Wood Sign: Buy - 1 / Sell - Disable
+>Spruce Wood Hanging Sign: Buy - 2 / Sell - Disable
+>Spruce Wood Shelf: Buy - 4 / Sell - Disable
+
+>Birch Wood Sign: Buy - 1 / Sell - Disable
+>Birch Wood Hanging Sign: Buy - 2 / Sell - Disable
+>Birch Wood Shelf: Buy - 4 / Sell - Disable
+
+>Jungle Wood Sign: Buy - 1 / Sell - Disable
+>Jungle Wood Hanging Sign: Buy - 2 / Sell - Disable
+>Jungle Wood Shelf: Buy - 4 / Sell - Disable
+
+>Acacia Wood Sign: Buy - 1 / Sell - Disable
+>Acacia Wood Hanging Sign: Buy - 2 / Sell - Disable
+>Acacia Wood Shelf: Buy - 4 / Sell - Disable
+
+>Dark Oak Wood Sign: Buy - 1 / Sell - Disable
+>Dark Oak Wood Hanging Sign: Buy - 2 / Sell - Disable
+>Dark Oak Wood Shelf: Buy - 4 / Sell - Disable
+
+>Mangrove Wood Sign: Buy - 1 / Sell - Disable
+>Mangrove Wood Hanging Sign: Buy - 2 / Sell - Disable
+>Mangrove Wood Shelf: Buy - 4 / Sell - Disable
+
+>Cherry Wood Sign: Buy - 1 / Sell - Disable
+>Cherry Wood Hanging Sign: Buy - 2 / Sell - Disable
+>Cherry Wood Shelf: Buy - 4 / Sell - Disable
+
+>Pale Oak Wood Sign: Buy - 1 / Sell - Disable
+>Pale Oak Wood Hanging Sign: Buy - 2 / Sell - Disable
+>Pale Oak Wood Shelf: Buy - 4 / Sell - Disable
+
+>Bamboo Sign: Buy - 1 / Sell - Disable
+>Bamboo Hanging Sign: Buy - 2 / Sell - Disable
+>Bamboo Shelf: Buy - 4 / Sell - Disable
+
+>Crimson Sign: Buy - 1 / Sell - Disable
+>Crimson Hanging Sign: Buy - 2 / Sell - Disable
+>Crimson Shelf: Buy - 4 / Sell - Disable
+
+>Warped Sign: Buy - 1 / Sell - Disable
+>Warped Hanging Sign: Buy - 2 / Sell - Disable
+>Warped Shelf: Buy - 4 / Sell - Disable
+
+>Torch: Buy - 4 / Sell - Disable
+>Soul Torch: Buy - 8 / Sell - Disable
+>Copper Torch: Buy - 6 / Sell - Disable
+
+>Lantern: Buy - 10 / Sell - Disable
+>Soul Lantern: Buy - 14 / Sell - Disable
+>Copper Lantern: Buy - 12 / Sell - Disable
+>Exposed Copper Lantern: Buy - 12 / Sell - Disable
+>Weathered Copper Lantern: Buy - 12 / Sell - Disable
+>Oxidized Copper Lantern: Buy - 12 / Sell - Disable
+>Waxed Copper Lantern: Buy - 12 / Sell - Disable
+>Waxed Exposed Copper Lantern: Buy - 12 / Sell - Disable
+>Waxed Weathered Copper Lantern: Buy - 12 / Sell - Disable
+>Waxed Oxidized Copper Lantern: Buy - 12 / Sell - Disable
+
+>Iron Chain: Buy - 8 / Sell - Disable
+>Copper Chain: Buy - 6 / Sell - Disable
+>Exposed Copper Chain: Buy - 6 / Sell - Disable
+>Weathered Copper Chain: Buy - 6 / Sell - Disable
+>Oxidized Copper Chain: Buy - 6 / Sell - Disable
+>Waxed Copper Chain: Buy - 6 / Sell - Disable
+>Waxed Exposed Copper Chain: Buy - 6 / Sell - Disable
+>Waxed Weathered Copper Chain: Buy - 6 / Sell - Disable
+>Waxed Oxidized Copper Chain: Buy - 6 / Sell - Disable
+>End Rod: Buy - 10 / Sell - 1
+>Glowstone: Buy - 6 / Sell - 1
+>Shroomlight: Buy - 4 / Sell - 1
+>Ochre Froglight: Buy - 40 / Sell - 6
+>Verdant Froglight: Buy - 40 / Sell - 6
+>Pearlsecent Froglight: Buy - 40 / Sell - 6
+>Crying Obsidian: Buy - 22 / Sell - 4
+>Obsidian: Buy - 20 / Sell - 4
+>Glow Lichen: Buy - 2 / Sell - Disable
+>Magma Block: Buy - 8 / Sell - Disable
+
+>Campfire: Buy - 16 / Sell - Disable
+>Soul Campfire: Buy - 20 / Sell - Disable
+
+>Anvil: Buy - 160 / Sell - 20
+
+>Jukebox: Buy - 210 / Sell - 40
+>Enchanting Table: Buy - 160 / Sell - Disable
+>End Crystal: Buy - Disable / Sell - 350
+>Bell: Buy - 1250 / Sell - Disable
+>Lodestone: Buy - 80 / Sell - Disable
+>Ladder: Buy - 4 / Sell - 1
+>Scaffolding: Buy - 10 / Sell - 1
+>Bee Nest: Buy - 72 / Sell - 10
+>Beehive: Buy - 80 / Sell - 10
+
+>Lightning Rod: Buy - 24 / Sell - 2
+>Exposed Lightning Rod: Buy - 24 / Sell - 2
+>Weathered Lightning Rod: Buy - 24 / Sell - 2
+>Oxidized Lightning Rod: Buy - 24 / Sell - 2
+>Waxed Lightning Rod: Buy - 24 / Sell - 2
+>Waxed Exposed Lightning Rod: Buy - 24 / Sell - 2
+>Waxed Weathered Lightning Rod: Buy - 24 / Sell - 2
+>Waxed Oxidized Lightning Rod: Buy - 24 / Sell - 2
+
+>Flower Pot: Buy - 70 / Sell - 5
+>Decorated Pot: Buy - 80 / Sell - 5
+>Armor Stand: Buy - 60 / Sell - 3
+>Item Frame: Buy - 20 / Sell - 1
+>Glow Item Frame: Buy - 32 / Sell - 2
+>Painting: Buy - 40 / Sell - 2
+>Bookshelf: Buy - 160 / Sell - 10
+>Chiseled Bookshelf: Buy - 120 / Sell - 10
+
+>Chest: Buy - 24 / Sell - 3
+>Copper Chest: Buy - 38 / Sell - 4
+>Exposed Copper Chest: Buy - 38 / Sell - 4
+>Weathered Copper Chest: Buy - 38 / Sell - 4
+>Oxidized Copper Chest: Buy - 38 / Sell - 4
+>Waxed Copper Chest: Buy - 38 / Sell - 4
+>Waxed Exposed Copper Chest: Buy - 38 / Sell - 4
+>Waxed Weathered Copper Chest: Buy - 38 / Sell - 4
+>Waxed Oxidized Copper Chest: Buy - 38 / Sell - 4
+>Ender Chest: Buy - 180 / Sell - Disable
+
+>Ominus Banner: Buy - Disable / Sell - 140

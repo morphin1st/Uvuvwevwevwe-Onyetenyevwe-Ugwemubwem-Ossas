@@ -1,0 +1,185 @@
+-Natural Blocks (Grass Block): Slot 20
+"Organic blocks found naturally throughout the world environment."
+-------------------------------------
+>Grass Block: Buy - 1 / Sell - Disable
+>Podzol: Buy - 7 / Sell - Disable
+>Dirt: Buy - 1 / Sell - Disable
+>Coarse Dirt: Buy - 5 / Sell - Disable
+>Rooted Dirt: Buy - 5 / Sell - Disable
+>Mud: Buy - 3 / Sell - Disable
+>Clay: Buy - 3 / Sell - Disable
+>Gravel: Buy - 1 / Sell - Disable
+>Sand: Buy - 1 / Sell - Disable
+>Red Sand: Buy - 1 / Sell - Disable
+>Ice: Buy - 1 / Sell - Disable
+>Packed Ice: Buy - 6 / Sell - Disable
+>Blue Ice: Buy - 12 / Sell - Disable
+>Snow Block: Buy - 1 / Sell - Disable
+>Snow: Buy - 1 / Sell - Disable
+>Moss Block: Buy - 9 / Sell - Disable
+>Moss Carpet: Buy - 5 / Sell - Disable
+>Pale Moss Block: Buy - 11 / Sell - Disable
+>Pale Moss Carpet: Buy - 7 / Sell - Disable
+>Pale Hanging Moss: Buy - 3 / Sell - Disable
+>Dripstone Block: Buy - 8 / Sell - Disable
+>Pointed Dripstone: Buy - 3 / Sell - Disable
+
+>Soul Sand: Buy - 14 / Sell - Disable
+>Soul Soil: Buy - 14 / Sell - Disable
+>Bone Block: Buy - 12 / Sell - Disable
+>Budding Amethyst: Buy - 38 / Sell - Disable
+>Small Amethyst Bud: Buy - 20 / Sell - 2
+>Medium Amethyst Bud: Buy - 26 / Sell - 4
+>Large Amethyst Bud: Buy - 32 / Sell - 6
+>Amethyst Cluster: Buy - 40 / Sell - 8
+
+>Mangrove Roots: Buy - 3 / Sell - Disable
+>Muddy Mangrove Roots: Buy - 6 / Sell - Disable
+
+>Mushroom Stem: Buy - 1 / Sell - Disable
+
+>Oak Leaves: Buy - 1 / Sell - Disable
+>Spruce Leaves: Buy - 1 / Sell - Disable
+>Birch Leaves: Buy - 1 / Sell - Disable
+>Jungle Leaves: Buy - 1 / Sell - Disable
+>Acacia Leaves: Buy - 1 / Sell - Disable
+>Dark Oak Leaves: Buy - 1 / Sell - Disable
+>Mangrove Leaves: Buy - 1 / Sell - Disable
+>Cherry Leaves: Buy - 1 / Sell - Disable
+>Pale Oak Leaves: Buy - 1 / Sell - Disable
+>Azalea Leaves: Buy - 1 / Sell - Disable
+>Flowering Azalea Leaves: Buy - 1 / Sell - Disable
+
+>Brown Mushroom Block: Buy - 6 / Sell - Disable
+>Red Mushroom Block: Buy - 8 / Sell - Disable
+>Nether Wart Block: Buy - 10 / Sell - Disable
+>Warped Wart Block: Buy - 10 / Sell - Disable
+
+>Oak Sapling: Buy - 1 / Sell - Disable
+>Spruce Sapling: Buy - 1 / Sell - Disable
+>Birch Sapling: Buy - 1 / Sell - Disable
+>Jungle Sapling: Buy - 1 / Sell - Disable
+>Acacia Sapling: Buy - 1 / Sell - Disable
+>Dark Oak Sapling: Buy - 1 / Sell - Disable
+>Mangrove Propagule: Buy - 1 / Sell - Disable
+>Cherry Sapling: Buy - 1 / Sell - Disable
+>Pale Oak Sapling: Buy - 1 / Sell - Disable
+>Azalea: Buy - 1 / Sell - Disable
+>Flowering Azalea: Buy - 1 / Sell - Disable
+
+>Brown Mushroom: Buy - 3 / Sell - Disable
+>Red Mushroom: Buy - 5 / Sell - Disable
+>Crimson Fungus: Buy - 2 / Sell - Disable
+>Warped Fungus: Buy - 2 / Sell - Disable
+
+>Short Grass: Buy - 2 / Sell - 1
+>Fern: Buy - 4 / Sell - 1
+>Short Dry Grass: Buy - 2 / Sell - 1
+>Bush: Buy - 6 / Sell - 1
+>Dead Bush: Buy - 20 / Sell - 1
+
+>Dandelion: Buy - 7 / Sell - Disable
+>Poppy: Buy - 1 / Sell - Disable
+>Blue Orchid: Buy - 7 / Sell - Disable
+>Allium: Buy - 7 / Sell - Disable
+>Azure Bluet: Buy - 7 / Sell - Disable
+>Red Tulip: Buy - 7 / Sell - Disable
+>Orange Tulip: Buy - 7 / Sell - Disable
+>White Tulip: Buy - 7 / Sell - Disable
+>Pink Tulip: Buy - 7 / Sell - Disable
+>Oxeye Daisy: Buy - 7 / Sell - Disable
+>Cornflower: Buy - 7 / Sell - Disable
+>Lily of the Valley: Buy - 7 / Sell - Disable
+>Torchflower: Buy - 49 / Sell - Disable
+>Cactus Flower: Buy - 34 / Sell - Disable
+>Closed Eyeblossom: Buy - 38 / Sell - Disable
+
+>Pink Petals: Buy - 2 / Sell - 1
+>Wildflowers: Buy - 2 / Sell - 1
+>Leaf Litter: Buy - 1 / Sell - 1
+>Spore Blossom: Buy - 19 / Sell - 3
+
+>Bamboo: Buy - 5 / Sell - 1
+>Sugar Cane: Buy - 4 / Sell - 1
+>Cactus: Buy - 8 / Sell - 1
+
+>Crimson Roots: Buy - 8 / Sell - 1
+>Warped Roots: Buy - 8 / Sell - 1
+>Nether Sprouts: Buy - 8 / Sell - 1
+>Weeping Vines: Buy - 8 / Sell - 1
+>Twisting Vines: Buy - 8 / Sell - 1
+>Vines: Buy - 10 / Sell - 2
+>Hanging Roots: Buy - 12 / Sell - 3
+
+>Large Fern: Buy - 10 / Sell - 1
+>Tall Dry Grass: Buy - 8 / Sell - 1
+>Sunflower: Buy - 6 / Sell - 1
+>Lilac: Buy - 7 / Sell - 1
+>Rose Bush: Buy - 7 / Sell - 1
+>Peony: Buy - 7 / Sell - 1
+>Pitcher Plant: Buy - 36 / Sell - Disable
+>Big Dripleaf: Buy - 21 / Sell - 2
+>Small Dripleaf: Buy - 17 / Sell - 2
+>Chorus Flower: Buy - 5 / Sell - 1
+
+>Turtle Egg: Buy - 153 / Sell - Disable
+
+>Wheat Seeds: Buy - 1 / Sell - Disable
+>Cocoa Beans: Buy - 5 / Sell - Disable
+>Pumpkin Seeds: Buy - 7 / Sell - Disable
+>Melon Seeds: Buy - 7 / Sell - Disable
+>Beetroot Seeds: Buy - 13 / Sell - Disable
+>Torchflower Seeds: Buy - 29 / Sell - Disable
+>Pitcher Pod: Buy - 37 / Sell - Disable
+
+>Nether Wart: Buy - 14 / Sell - 2
+>Lily Pad: Buy - 7 / Sell - 1
+>Seagrass: Buy - 1 / Sell - Disable
+>Sea Pickle: Buy - 35 / Sell - 10
+>Kelp: Buy - 1 / Sell - Disable
+>Dried Kelp Block: Buy - 29 / Sell - 2
+
+>Tube Coral Block: Buy - 260 / Sell - 25
+>Brain Coral Block: Buy - 260 / Sell - 25
+>Bubble Coral Block: Buy - 260 / Sell - 25
+>Fire Coral Block: Buy - 260 / Sell - 25
+>Horn Coral Block: Buy - 260 / Sell - 25
+>Dead Tube Coral Block: Buy - 260 / Sell - 25
+>Dead Brain Coral Block: Buy - 260 / Sell - 25
+>Dead Bubble Coral Block: Buy - 260 / Sell - 25
+>Dead Fire Coral Block: Buy - 260 / Sell - 25
+>Dead Horn Coral Block: Buy - 260 / Sell - 25
+
+>Tube Coral: Buy - 171 / Sell - Disable
+>Brain Coral: Buy - 171 / Sell - Disable
+>Bubble Coral: Buy - 171 / Sell - Disable
+>Fire Coral: Buy - 171 / Sell - Disable
+>Horn Coral: Buy - 171 / Sell - Disable
+>Dead Tube Coral: Buy - 171 / Sell - Disable
+>Dead Brain Coral: Buy - 171 / Sell - Disable
+>Dead Bubble Coral: Buy - 171 / Sell - Disable
+>Dead Fire Coral: Buy - 171 / Sell - Disable
+>Dead Horn Coral: Buy - 171 / Sell - Disable
+
+>Tube Coral Fan: Buy - 103 / Sell - Disable
+>Brain Coral Fan: Buy - 103 / Sell - Disable
+>Bubble Coral Fan: Buy - 103 / Sell - Disable
+>Fire Coral Fan: Buy - 103 / Sell - Disable
+>Horn Coral Fan: Buy - 103 / Sell - Disable
+>Dead Tube Coral Fan: Buy - 103 / Sell - Disable
+>Dead Brain Coral Fan: Buy - 103 / Sell - Disable
+>Dead Bubble Coral Fan: Buy - 103 / Sell - Disable
+>Dead Fire Coral Fan: Buy - 103 / Sell - Disable
+>Dead Horn Coral Fan: Buy - 103 / Sell - Disable
+
+>Melon: Buy - 19 / Sell - 2
+>Pumpkin: Buy - 19 / Sell - 2
+>Carved Pumpkin: Buy - 24 / Sell - 3
+>Jack o'Lantern: Buy - 39 / Sell - 3
+>Hay Bale: Buy - 11 / Sell - 1
+
+>Sculk: Buy - Disable / Sell - 20
+>Sculk Vein: Buy - Disable / Sell - 65
+>Sculk Catalyst: Buy - Disable / Sell - 140
+ 
+>Cobweb: Buy - 72 / Sell - Disable

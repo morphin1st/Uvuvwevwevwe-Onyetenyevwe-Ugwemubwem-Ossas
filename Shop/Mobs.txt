@@ -1,0 +1,30 @@
+-Mobs (Zombie Head): Slot 40
+"Configuration settings and drop loot data for entities."
+----------------------------
+>String: Buy - 12; Sell - 2
+>Bone: Buy - 12; Sell - 2
+>Leather: Buy - 6; Sell - 1
+>Feather: Buy - 6; Sell - 1
+>Egg: Buy - 8; Sell - 1
+>Brown Egg: Buy - 8; Sell - 1
+>Blue Egg: Buy - 8; Sell - 1
+>Rabbit Hide: Buy - 10; Sell - 1
+>Ink Sac: Buy - 4; Sell - 1
+>Glow Ink Sac: Buy - 4; Sell - 1
+>Turtle Scute: Buy - 180; Sell - 10
+>Armadillo Scute: Buy - 150; Sell - 10
+>Slime Ball: Buy - 24; Sell - 2
+>Prismarine Shard: Buy - 40; Sell - 4
+>Prismarine Crystals: Buy - 40; Sell - 4
+>Blaze Rod: Buy - 10; Sell - 2
+>Breeze Rod: Buy - 26; Sell - 2
+>Ender Pearl: Buy - 40; Sell - 4
+>Shulker Shell: Buy - 80; Sell - 4
+>Rabbit's Foot: Buy - 130; Sell - 5
+>Gunpowder: Buy - 12; Sell - 2
+>Spider Eye: Buy - 10; Sell - 2
+>Magma Cream: Buy - 35; Sell - 3
+>Ghast Tear: Buy - 58; Sell - 5
+>Phantom Membrane: Buy - 16; Sell - 2
+>Rotten Flesh: Buy - 2; Sell - 1
+>Arrow: Buy - 2; Sell - 1

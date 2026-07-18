@@ -1,0 +1,39 @@
+-Enchanting (Enchanting Book): Slot 23
+"Magical resources used to enchant and upgrade your gear."
+---------------------------------------
+>Aqua Affinity: Buy - 400 / Sell - Disable
+>Bane of Arthropods 5: Buy - 680 / Sell - Disable
+>Blast Protection 4: Buy - 1200 / Sell - Disable
+>Breach 4: Buy - 1500 / Sell - Disable
+>Channeling: Buy - 2100 / Sell - Disable
+>Density 5: Buy - 1800 / Sell - Disable
+>Depth Strider 3: Buy - 900 / Sell - Disable
+>Efficiency 5: Buy - 750 / Sell - Disable
+>Feather Falling 4: Buy - 1220 / Sell - Disable
+>Fire Aspect 2: Buy - 200 / Sell - Disable
+>Fire Protection 4: Buy - 1200 / Sell - Disable
+>Flame: Buy - 100 / Sell - Disable
+>Fortune 3: Buy - 680 / Sell - Disable
+>Impaling 5: Buy - 2000 / Sell - Disable
+>Infinity: Buy - 110 / Sell - Disable
+>Knockback 2: Buy - 200 / Sell - Disable
+>Looting 3: Buy - 720 / Sell - Disable
+>Loyalty 3: Buy - 960 / Sell - Disable
+>Luck of the Sea 3: Buy - 420 / Sell - Disable
+>Lunge 3: Buy - 670 / Sell - Disable
+>Lure 3: Buy - 420 / Sell - Disable
+>Multishot: Buy - 320 / Sell - Disable
+>Piercing 4: Buy - 810 / Sell - Disable
+>Power 5: Buy - 720 / Sell - Disable
+>Projectile Protection 4: Buy - 1200 / Sell - Disable
+>Protection 4: Buy - 2000 / Sell - Disable
+>Punch 2: Buy - 300 / Sell - Disable
+>Quick Charge 3: Buy - 240 / Sell - Disable
+>Respiration 3: Buy - 690 / Sell - Disable
+>Riptide 3: Buy - 1300 / Sell - Disable
+>Sharpness 5: Buy - 1420 / Sell - Disable
+>Silk Touch: Buy - 800 / Sell - Disable
+>Smite 5: Buy - 1130 / Sell - Disable
+>Sweeping Edge 3: Buy - 1050 / Sell - Disable
+>Thorns 3: Buy - 500 / Sell - Disable
+>Unbreaking 3: Buy - 3200 / Sell - Disable
