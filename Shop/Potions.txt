@@ -1,12 +1,12 @@
--Potions (Potion of Healing): Slot 39
-"Brewing ingredients and bottles with unique status effects."
+-Potions (Potion of Healing): Slot 41
+"&cBrewing ingredients and bottles with unique status effects."
 -----------------------------------
 >Honey Bottle: Buy - 67; Sell - 20
->Ominous Bottle (Bad Omen): Buy - Disable; Sell - 600
->Ominous Bottle (Bad Omen 2): Buy - Disable; Sell - 700
->Ominous Bottle (Bad Omen 3): Buy - Disable; Sell - 800
->Ominous Bottle (Bad Omen 4): Buy - Disable; Sell - 900
->Ominous Bottle (Bad Omen 5): Buy - Disable; Sell - 1200
+>Ominous Bottle: Buy - Disable; Sell - 600
+>Ominous Bottle (2): Buy - Disable; Sell - 700
+>Ominous Bottle (3): Buy - Disable; Sell - 800
+>Ominous Bottle (4): Buy - Disable; Sell - 900
+>Ominous Bottle (5): Buy - Disable; Sell - 1200
 >Water Bottle: Buy - 15; Sell - 2
 
 >Potion of Night Vision (3:00): Buy - 420; Sell - 120

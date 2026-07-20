@@ -1,5 +1,5 @@
--Building Block (Bricks): Slot 30
-"Standard blocks used for building and structural construction."
+-Building Block (Bricks): Slot 31
+"&4Standard blocks used for building and structural construction."
 -----------------------------
 >Oak Planks: Buy - 0.2 / Sell - Disable
 >Oak Wood Stairs: Buy - 0.2 / Sell - Disable
@@ -8,9 +8,9 @@
 >Oak Wood Fence Gate: Buy - 0.3 / Sell - Disable
 >Oak Door: Buy - 0.3 / Sell - Disable
 >Oak Log: Buy - 0.2 / Sell - Disable
->Oak Stripped Log: Buy - 0.2 / Sell - Disable
+>Stripped Oak Log: Buy - 0.2 / Sell - Disable
 >Oak Wood: Buy - 0.2 / Sell - Disable
->Oak Stripped Wood: Buy - 0.2 / Sell - Disable
+>Stripped Oak Wood: Buy - 0.2 / Sell - Disable
 >Oak Wood Button: Buy - 0.1 / Sell - Disable
 >Oak Wood Pressure Plate: Buy - 0.2 / Sell - Disable
 >Oak Wood Trapdoor: Buy - 0.2 / Sell - Disable
@@ -22,9 +22,9 @@
 >Spruce Wood Fence Gate: Buy - 0.3 / Sell - Disable
 >Spruce Door: Buy - 0.3 / Sell - Disable
 >Spruce Log: Buy - 0.2 / Sell - Disable
->Spruce Stripped Log: Buy - 0.2 / Sell - Disable
+>Stripped Spruce Log: Buy - 0.2 / Sell - Disable
 >Spruce Wood: Buy - 0.2 / Sell - Disable
->Spruce Stripped Wood: Buy - 0.2 / Sell - Disable
+>Stripped Spruce Wood: Buy - 0.2 / Sell - Disable
 >Spruce Wood Button: Buy - 0.1 / Sell - Disable
 >Spruce Wood Pressure Plate: Buy - 0.2 / Sell - Disable
 >Spruce Wood Trapdoor: Buy - 0.2 / Sell - Disable
@@ -36,9 +36,9 @@
 >Birch Wood Fence Gate: Buy - 0.3 / Sell - Disable
 >Birch Door: Buy - 0.3 / Sell - Disable
 >Birch Log: Buy - 0.2 / Sell - Disable
->Birch Stripped Log: Buy - 0.2 / Sell - Disable
+>Stripped Birch Log: Buy - 0.2 / Sell - Disable
 >Birch Wood: Buy - 0.2 / Sell - Disable
->Birch Stripped Wood: Buy - 0.2 / Sell - Disable
+>Stripped Birch Wood: Buy - 0.2 / Sell - Disable
 >Birch Wood Button: Buy - 0.1 / Sell - Disable
 >Birch Wood Pressure Plate: Buy - 0.2 / Sell - Disable
 >Birch Wood Trapdoor: Buy - 0.2 / Sell - Disable
@@ -50,9 +50,9 @@
 >Jungle Wood Fence Gate: Buy - 0.3 / Sell - Disable
 >Jungle Door: Buy - 0.3 / Sell - Disable
 >Jungle Log: Buy - 0.2 / Sell - Disable
->Jungle Stripped Log: Buy - 0.2 / Sell - Disable
+>Stripped Jungle Log: Buy - 0.2 / Sell - Disable
 >Jungle Wood: Buy - 0.2 / Sell - Disable
->Jungle Stripped Wood: Buy - 0.2 / Sell - Disable
+>Stripped Jungle Wood: Buy - 0.2 / Sell - Disable
 >Jungle Wood Button: Buy - 0.1 / Sell - Disable
 >Jungle Wood Pressure Plate: Buy - 0.2 / Sell - Disable
 >Jungle Wood Trapdoor: Buy - 0.2 / Sell - Disable
@@ -64,9 +64,9 @@
 >Acacia Wood Fence Gate: Buy - 0.3 / Sell - Disable
 >Acacia Door: Buy - 0.3 / Sell - Disable
 >Acacia Log: Buy - 0.2 / Sell - Disable
->Acacia Stripped Log: Buy - 0.2 / Sell - Disable
+>Stripped Acacia Log: Buy - 0.2 / Sell - Disable
 >Acacia Wood: Buy - 0.2 / Sell - Disable
->Acacia Stripped Wood: Buy - 0.2 / Sell - Disable
+>Stripped Acacia Wood: Buy - 0.2 / Sell - Disable
 >Acacia Wood Button: Buy - 0.1 / Sell - Disable
 >Acacia Wood Pressure Plate: Buy - 0.2 / Sell - Disable
 >Acacia Wood Trapdoor: Buy - 0.2 / Sell - Disable
@@ -78,9 +78,9 @@
 >Dark Oak Wood Fence Gate: Buy - 0.3 / Sell - Disable
 >Dark Oak Door: Buy - 0.3 / Sell - Disable
 >Dark Oak Log: Buy - 0.2 / Sell - Disable
->Dark Oak Stripped Log: Buy - 0.2 / Sell - Disable
+>Stripped Dark Oak Log: Buy - 0.2 / Sell - Disable
 >Dark Oak Wood: Buy - 0.2 / Sell - Disable
->Dark Oak Stripped Wood: Buy - 0.2 / Sell - Disable
+>Stripped Dark Oak Wood: Buy - 0.2 / Sell - Disable
 >Dark Oak Wood Button: Buy - 0.1 / Sell - Disable
 >Dark Oak Wood Pressure Plate: Buy - 0.2 / Sell - Disable
 >Dark Oak Wood Trapdoor: Buy - 0.2 / Sell - Disable
@@ -92,9 +92,9 @@
 >Mangrove Wood Fence Gate: Buy - 0.3 / Sell - Disable
 >Mangrove Door: Buy - 0.3 / Sell - Disable
 >Mangrove Log: Buy - 0.2 / Sell - Disable
->Mangrove Stripped Log: Buy - 0.2 / Sell - Disable
+>Stripped Mangrove Log: Buy - 0.2 / Sell - Disable
 >Mangrove Wood: Buy - 0.2 / Sell - Disable
->Mangrove Stripped Wood: Buy - 0.2 / Sell - Disable
+>Stripped Mangrove Wood: Buy - 0.2 / Sell - Disable
 >Mangrove Wood Button: Buy - 0.1 / Sell - Disable
 >Mangrove Wood Pressure Plate: Buy - 0.2 / Sell - Disable
 >Mangrove Wood Trapdoor: Buy - 0.2 / Sell - Disable
@@ -106,9 +106,9 @@
 >Cherry Wood Fence Gate: Buy - 0.3 / Sell - Disable
 >Cherry Door: Buy - 0.3 / Sell - Disable
 >Cherry Log: Buy - 0.2 / Sell - Disable
->Cherry Stripped Log: Buy - 0.2 / Sell - Disable
+>Stripped Cherry Log: Buy - 0.2 / Sell - Disable
 >Cherry Wood: Buy - 0.2 / Sell - Disable
->Cherry Stripped Wood: Buy - 0.2 / Sell - Disable
+>Stripped Cherry Wood: Buy - 0.2 / Sell - Disable
 >Cherry Wood Button: Buy - 0.1 / Sell - Disable
 >Cherry Wood Pressure Plate: Buy - 0.2 / Sell - Disable
 >Cherry Wood Trapdoor: Buy - 0.2 / Sell - Disable
@@ -120,9 +120,9 @@
 >Pale Oak Wood Fence Gate: Buy - 0.3 / Sell - Disable
 >Pale Oak Door: Buy - 0.3 / Sell - Disable
 >Pale Oak Log: Buy - 0.2 / Sell - Disable
->Pale Oak Stripped Log: Buy - 0.2 / Sell - Disable
+>Stripped Pale Oak Log: Buy - 0.2 / Sell - Disable
 >Pale Oak Wood: Buy - 0.2 / Sell - Disable
->Pale Oak Stripped Wood: Buy - 0.2 / Sell - Disable
+>Stripped Pale Oak Wood: Buy - 0.2 / Sell - Disable
 >Pale Oak Wood Button: Buy - 0.1 / Sell - Disable
 >Pale Oak Wood Pressure Plate: Buy - 0.2 / Sell - Disable
 >Pale Oak Wood Trapdoor: Buy - 0.2 / Sell - Disable
@@ -149,9 +149,9 @@
 >Crimson Fence Gate: Buy - 0.3 / Sell - Disable
 >Crimson Door: Buy - 0.3 / Sell - Disable
 >Crimson Stem: Buy - 0.2 / Sell - Disable
->Crimson Stripped Stem: Buy - 0.2 / Sell - Disable
+>Stripped Crimson Stem: Buy - 0.2 / Sell - Disable
 >Crimson Hyphae: Buy - 0.2 / Sell - Disable
->Crimson Stripped Hyphae: Buy - 0.2 / Sell - Disable
+>Stripped Crimson Hyphae: Buy - 0.2 / Sell - Disable
 >Crimson Button: Buy - 0.1 / Sell - Disable
 >Crimson Pressure Plate: Buy - 0.2 / Sell - Disable
 >Crimson Trapdoor: Buy - 0.2 / Sell - Disable
@@ -163,9 +163,9 @@
 >Warped Fence Gate: Buy - 0.3 / Sell - Disable
 >Warped Door: Buy - 0.3 / Sell - Disable
 >Warped Stem: Buy - 0.2 / Sell - Disable
->Warped Stripped Stem: Buy - 0.2 / Sell - Disable
+>Stripped Warped Stem: Buy - 0.2 / Sell - Disable
 >Warped Hyphae: Buy - 0.2 / Sell - Disable
->Warped Stripped Hyphae: Buy - 0.2 / Sell - Disable
+>Stripped Warped Hyphae: Buy - 0.2 / Sell - Disable
 >Warped Button: Buy - 0.1 / Sell - Disable
 >Warped Pressure Plate: Buy - 0.2 / Sell - Disable
 >Warped Trapdoor: Buy - 0.2 / Sell - Disable
@@ -239,9 +239,9 @@
 >Polished Deepslate Slab: Buy - 3 / Sell - 1
 >Polished Deepslate Wall: Buy - 4 / Sell - 1
 >Deepslate Tiles: Buy - 5 / Sell - 1
->Deepslate Tiles Stairs: Buy - 3 / Sell - 1
->Deepslate Tiles Slab: Buy - 3 / Sell - 1
->Deepslate Tiles Wall: Buy - 4 / Sell - 1
+>Deepslate Tile Stairs: Buy - 3 / Sell - 1
+>Deepslate Tile Slab: Buy - 3 / Sell - 1
+>Deepslate Tile Wall: Buy - 4 / Sell - 1
 >Chiseled Deepslate: Buy - 6 / Sell - 1
 >Cracked Deepslate Bricks: Buy - 6 / Sell - 1
 >Cracked Deepslate Tiles: Buy - 6 / Sell - 1
@@ -267,9 +267,9 @@
 >Brick Wall: Buy - 5 / Sell - 1
 
 >Resin Bricks: Buy - 10 / Sell - 2
->Resin Bricks Stairs: Buy - 12 / Sell - 2
->Resin Bricks Slab: Buy - 12 / Sell - 2
->Resin Bricks Wall: Buy - 14 / Sell - 2
+>Resin Brick Stairs: Buy - 12 / Sell - 2
+>Resin Brick Slab: Buy - 12 / Sell - 2
+>Resin Brick Wall: Buy - 14 / Sell - 2
 >Chiseled Resin Bricks: Buy - 15 / Sell - 2
 
 >Sandstone: Buy - 4 / Sell - 1

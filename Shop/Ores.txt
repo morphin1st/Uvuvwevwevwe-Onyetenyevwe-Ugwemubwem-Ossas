@@ -1,5 +1,5 @@
--Ores (Gold Ingot): Slot 13
-"Valuable minerals and raw resources mined from underground."
+-Ores (Gold Ingot): Slot 14
+"&6Valuable minerals and raw resources mined from underground."
 ------------------------
 +Coal: Buy - 6 / Sell - Disable
 +Block of Coal: Buy - 60 / Sell - 7
@@ -12,14 +12,16 @@
 +Emerald: Buy - 110 / Sell - Disable
 +Block of Emerald: Buy - 1000 / Sell - 95
 +Lapis Lazuli: Buy - 90 / Sell - Disable
-+Block of Lapis Lazuli: Buy - 830 / Sell - 70
++lapis_block:
+name:"Block of Lapis Lazuli": Buy - 830 / Sell - 70
 +Diamond: Buy - Disable / Sell - 180
 +Block of Diamond: Buy - 5100 / Sell - Disable
 +Ancient Debris: Buy - Disable / Sell - 160
 +Netherite Scrap: Buy - Disable / Sell - 170
 +Netherite Ingot: Buy - Disable / Sell - 260
 +Block of Netherite: Buy - 30000 / Sell - Disable
-+Nether Quartz: Buy - 20 / Sell - 5
++quartz:
+name:"Nether Quartz": Buy - 20 / Sell - 5
 +Amethyst Shard: Buy - 38 / Sell - 6
 +Block of Amethyst: Buy - 360 / Sell - Disable
 +Copper Nugget: Buy - 8 / Sell - 1

@@ -1,5 +1,5 @@
--Functional Blocks (Dark Oak Hanging Sign): Slot 12
-"Interactive blocks and utility containers."
+-Functional Blocks (Dark Oak Hanging Sign): Slot 13
+"&7Interactive blocks and utility containers."
 -------------------------------------------------------
 >Oak Wood Sign: Buy - 1 / Sell - Disable
 >Oak Wood Hanging Sign: Buy - 2 / Sell - Disable
@@ -74,6 +74,7 @@
 >Waxed Weathered Copper Chain: Buy - 6 / Sell - Disable
 >Waxed Oxidized Copper Chain: Buy - 6 / Sell - Disable
 >End Rod: Buy - 10 / Sell - 1
+>Iron Bars: Buy - 16 / Sell - 2
 >Glowstone: Buy - 6 / Sell - 1
 >Shroomlight: Buy - 4 / Sell - 1
 >Ochre Froglight: Buy - 40 / Sell - 6
@@ -128,4 +129,5 @@
 >Waxed Oxidized Copper Chest: Buy - 38 / Sell - 4
 >Ender Chest: Buy - 180 / Sell - Disable
 
->Ominus Banner: Buy - Disable / Sell - 140
+>white_banner:
+name:"Ominus Banner": Buy - Disable / Sell - 140

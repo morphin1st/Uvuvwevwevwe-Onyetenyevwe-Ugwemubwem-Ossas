@@ -1,10 +1,12 @@
-- Redstone (Redstone Block): Slot 32
-"Technical components used to build automated mechanisms and circuits."
+- Redstone (Redstone Block): Slot 24
+"&4Technical components used to build automated mechanisms and circuits."
 ------------------------------------
-+Redstone Dust: Buy - 0.5 / Sell - Disable
++redstone:
+name:"Redstone Dust": Buy - 0.5 / Sell - Disable
 +Redstone Torch: Buy - 2 / Sell - Disable
 +Block of Redstone: Buy - 20 / Sell - 4
-+Redstone Repeater: Buy - 12 / Sell - 2
++repeater:
+name:"Redstone Repeater": Buy - 12 / Sell - 2
 +Redstone Comparator: Buy - 14 / Sell - 2
 +Target: Buy - 14 / Sell - 2
 +Lever: Buy - 1 / Sell - Disable

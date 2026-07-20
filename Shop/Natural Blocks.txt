@@ -1,5 +1,5 @@
 -Natural Blocks (Grass Block): Slot 20
-"Organic blocks found naturally throughout the world environment."
+"&2Organic blocks found naturally throughout the world environment."
 -------------------------------------
 >Grass Block: Buy - 1 / Sell - Disable
 >Podzol: Buy - 7 / Sell - Disable
@@ -108,7 +108,8 @@
 >Nether Sprouts: Buy - 8 / Sell - 1
 >Weeping Vines: Buy - 8 / Sell - 1
 >Twisting Vines: Buy - 8 / Sell - 1
->Vines: Buy - 10 / Sell - 2
+>vine:
+name:"Vines": Buy - 10 / Sell - 2
 >Hanging Roots: Buy - 12 / Sell - 3
 
 >Large Fern: Buy - 10 / Sell - 1
@@ -176,7 +177,8 @@
 >Pumpkin: Buy - 19 / Sell - 2
 >Carved Pumpkin: Buy - 24 / Sell - 3
 >Jack o'Lantern: Buy - 39 / Sell - 3
->Hay Bale: Buy - 11 / Sell - 1
+>hay_block:
+name:"Hay Bale": Buy - 11 / Sell - 1
 
 >Sculk: Buy - Disable / Sell - 20
 >Sculk Vein: Buy - Disable / Sell - 65

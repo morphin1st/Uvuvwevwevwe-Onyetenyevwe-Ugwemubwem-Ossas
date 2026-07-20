@@ -1,5 +1,5 @@
--Ingredients (Dragon's Breath): Slot 22
-"Raw materials and mob drops used for crafting items."
+-Ingredients (Dragon's Breath): Slot 25
+"&dRaw materials and mob drops used for crafting items."
 ---------------------------------------
 >Charcoal: Buy - 4 / Sell - Disable
 >Stick: Buy - 2 / Sell - Disable

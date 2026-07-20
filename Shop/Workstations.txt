@@ -1,0 +1,14 @@
+-Workstations (Anvil): Slot 21
+"&7Villagers with professional gear"
+---------------------------
+>Stonecutter: Buy - 25 / Sell - 2
+>Cartography Table: Buy - 14 / Sell - 2
+>Fletching Table: Buy - 12 / Sell - 2
+>Smithing Table: Buy - 20 / Sell - 2
+>Grindstone: Buy - 30 / Sell - 2
+>Loom: Buy - 8 / Sell - 1
+>Smoker: Buy - 19 / Sell - 2
+>Blast Furnace: Buy - 25 / Sell - 2
+>Composter: Buy - 6 / Sell - 1
+>Lectern: Buy - 8 / Sell - 1
+>Barrel: Buy - 6 / Sell - 1

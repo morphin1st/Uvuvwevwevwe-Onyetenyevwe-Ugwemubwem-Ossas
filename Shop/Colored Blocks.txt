@@ -1,5 +1,5 @@
-- Colored Blocks (Cyan Wool): Slot 31
-"Colorful blocks including wool, concrete, and stained glass."
+- Colored Blocks (Cyan Wool): Slot 33
+"&3Colorful blocks including wool, concrete, and stained glass."
 ------------------------------------
 >White Wool: Buy - 12 / Sell - 2
 >Light Gray Wool: Buy - 12 / Sell - 2

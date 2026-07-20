@@ -1,5 +1,5 @@
--Mobs (Zombie Head): Slot 40
-"Configuration settings and drop loot data for entities."
+-Mobs (Zombie Head): Slot 22
+"&aConfiguration settings and drop loot data for entities."
 ----------------------------
 >String: Buy - 12; Sell - 2
 >Bone: Buy - 12; Sell - 2
@@ -20,7 +20,8 @@
 >Breeze Rod: Buy - 26; Sell - 2
 >Ender Pearl: Buy - 40; Sell - 4
 >Shulker Shell: Buy - 80; Sell - 4
->Rabbit's Foot: Buy - 130; Sell - 5
+>rabbit_foot:
+name:"Rabbit's Foot": Buy - 130; Sell - 5
 >Gunpowder: Buy - 12; Sell - 2
 >Spider Eye: Buy - 10; Sell - 2
 >Magma Cream: Buy - 35; Sell - 3

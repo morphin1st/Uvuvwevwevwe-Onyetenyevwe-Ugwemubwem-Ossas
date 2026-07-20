@@ -1,5 +1,5 @@
 -Enchanting (Enchanting Book): Slot 23
-"Magical resources used to enchant and upgrade your gear."
+"&5Magical resources used to enchant and upgrade your gear."
 ---------------------------------------
 >Aqua Affinity: Buy - 400 / Sell - Disable
 >Bane of Arthropods 5: Buy - 680 / Sell - Disable

@@ -1,5 +1,5 @@
--Food (Bread): Slot 21
-"Consumable items and crops to satisfy your hunger."
+-Food (Bread): Slot 26
+"&eConsumable items and crops to satisfy your hunger."
 ------------------
 +Apple: Buy - 6; Sell - 2
 +Golden Apple: Buy - 150; Sell - 10

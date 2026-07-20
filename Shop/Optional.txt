@@ -1,5 +1,5 @@
--Optional (Ender Pearl): Slot 14
-"Extra items and bonus content tailored for the server."
+-Optional (Ender Pearl): Slot 15
+"&0Extra items and bonus content tailored for the server."
 -------------------------------
 >Bucket: Buy - 16 / Sell - 3
 >Water Bucket: Buy - 18 / Sell - 3
@@ -16,18 +16,20 @@
 
 >Field Masoned Banner Pattern: Buy - 120 / Sell - Disable
 >Bordure Indented Banner Pattern: Buy - 120 / Sell - Disable
->Flower Charge Banner Pattern: Buy - 120 / Sell - Disable
->Creeper Charge Banner Pattern: Buy - 120 / Sell - Disable
->Skull Charge Banner Pattern: Buy - 120 / Sell - Disable
+>flower_banner_pattern:
+name:"Flower Charge Banner Pattern": Buy - 120 / Sell - Disable
+>creeper_banner_pattern:
+name:"Creeper Charge Banner Pattern": Buy - 120 / Sell - Disable
+>skull_banner_pattern:
+name:"Skull Charge Banner Pattern": Buy - 120 / Sell - Disable
 >Thing Banner Pattern: Buy - 950 / Sell - Disable
 >Globe Banner Pattern: Buy - 260 / Sell - Disable
 >Snout Banner Pattern: Buy - 260 / Sell - Disable
 >Flow Banner Pattern: Buy - 380 / Sell - Disable
 >Guster Banner Pattern: Buy - 380 / Sell - Disable
 
->Bottle o' Enchanting: Buy - 450 / Sell - Disable
-
->Totem of Undying: Buy - 100 / Sell - Disable
+>experience_bottle:
+name:"Bottle o' Enchanting": Buy - 450 / Sell - Disable
 
 >Elytra: Buy - Disable / Sell - 10000 (Chỉ cho bán 2 cánh/player)
 
