@@ -261,6 +261,12 @@
 >Chiseled Tuff: Buy - 7 / Sell - 1
 >Chiseled Tuff Bricks: Buy - 7 / Sell - 1
 
+>Packed Mud: Buy - 3 / Sell - 1
+>Mud Bricks: Buy - 4 / Sell - 1
+>Mud Brick Stairs: Buy - 5 / Sell - 1
+>Mud Brick Slab: Buy - 5 / Sell - 1
+>Mud Brick Wall: Buy - 5 / Sell - 1
+
 >Bricks: Buy - 4 / Sell - 1
 >Brick Slab: Buy - 5 / Sell - 1
 >Brick Stairs: Buy - 5 / Sell - 1
